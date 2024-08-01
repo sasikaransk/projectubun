@@ -1,5 +1,7 @@
 sudo apt update
 sudo apt install snap
+sudo apt install snapd
+sudo apt install gnome
 sudo DEBIAN_FRONTEND=noninteractive \apt install --assume-yes xfce4 desktop-base dbus-x11 xscreensaver
 sudo apt install screen
 sudo apt install -f
