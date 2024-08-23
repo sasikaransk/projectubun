@@ -2,6 +2,10 @@ sudo apt update
 sudo apt install snap
 sudo apt install snapd
 sudo snap install firefox
+sudo apt install vlc -y
+sudo add-apt-repository ppa:exmplayer-dev/exmplayer 
+sudo apt-get update 
+sudo apt-get install exmplayer
 sudo snap install gnome-system-monitor
 sudo DEBIAN_FRONTEND=noninteractive \apt install --assume-yes xfce4 desktop-base dbus-x11 xscreensaver
 sudo apt install screen
@@ -13,6 +17,7 @@ sudo dpkg -i microsoft-edge-stable_127.0.2651.74-1_amd64.deb
 wget https://gitlab.com/a2622221/Sasirdp/-/raw/main/Telegram.AppImage
 sudo apt install mkvtoolnix mkvtoolnix-gui
 sudo apt install qbittorrent
+bash <(wget -qO- https://files.biglybt.com/installer/BiglyBT_Installer.sh)
 sudo apt install libqt5webenginecore5 libqt5webenginewidgets5 libqt5script5 libqt5scripttools5
 sudo bash -c 'echo "exec /etc/X11/Xsession /usr/bin/xfce4-session" > /etc/chrome-remote-desktop-session'
 sudo install -d -m 0755 /etc/apt/keyrings
