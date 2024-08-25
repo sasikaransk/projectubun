@@ -3,9 +3,7 @@ sudo apt install snap
 sudo apt install snapd
 sudo snap install firefox
 sudo apt install vlc -y
-sudo add-apt-repository ppa:exmplayer-dev/exmplayer 
-sudo apt-get update 
-sudo apt-get install exmplayer
+sudo apt install mpv
 sudo snap install gnome-system-monitor
 sudo DEBIAN_FRONTEND=noninteractive \apt install --assume-yes xfce4 desktop-base dbus-x11 xscreensaver
 sudo apt install screen
