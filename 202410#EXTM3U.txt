@@ -1587,89 +1587,88 @@ https://tamilultra.in/master.m3u8?c=VIJAY_TAKKAR&server=1|Referer=https://tamilu
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WebJPU/kM1OzSnHrhxhaqg", "kid":"9BXBJKB8WVuXxDzJqW3tMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/14020/200x200_SunTVHD_14020_8ce81e5d-4b5b-49d9-9a12-dde5dd739bc9.png",SUN TV HD
-https://otttv.co.in/sun/live.php?id=14020&e=.m3u8|Referer=https://otttv.co.in/
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Z1IBWs8IRXKgjf4heW-LRQ","k":"_4I92-ViXDXT6T8O1FIBFQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/14020/200x200_SunTVHD_14020_8ce81e5d-4b5b-49d9-9a12-dde5dd739bc9.png",SUN TV
+https://livestream2.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OJFVfxyxTe23VFv1JJnXSA","k":"-2YvdC5fXgxhp8HGbSsBmg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/155535/200x200_SunTVHDDolbyVision_155535_2312f9df-92b3-48dc-bd0d-761bd9c68a9c.jpg",SUN TV HD Dolby Vision
-https://otttv.co.in/sun/live.php?id=155535&e=.m3u8|Referer=https://otttv.co.in/
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Bdo4pG-3QDCI9BQ05E3pgA","k":"SIBGE5oeHWUyPP5LsbMLew"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26567/200x200_ChuttiTV_26567_9e566862-4ddb-4fea-90b6-1710aa5116fe.png",Chutti Tv
-https://otttv.co.in/sun/live.php?id=26567&e=.m3u8|Referer=https://otttv.co.in/
+https://livestream2.sunnxt.com/e3eccb3f250a4ca8826e42914b2322a6/ChuttiTV_IN_index.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1nShp_Q2QaKb2IZ9h8clmg","k":"gS9V3N5oYZ_GrZWVGyQdLA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/9023/200x200_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png",Adhithya
-https://otttv.co.in/sun/live.php?id=9023&e=.m3u8|Referer=https://otttv.co.in/
+https://livestream2.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gVRt8_QcSm28mk78fy-2Jg","k":"OShQX0BUzx-pNSdv2-QJkg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26569/200x200_SunLife_26569_4b759496-79e6-4914-8c0e-976497182ac3.png",Sun Life
-https://otttv.co.in/sun/live.php?id=26569&e=.m3u8|Referer=https://otttv.co.in/
+https://livestream2.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4MoO6duqwpQnU9kouSgkxQ", "kid":"upv+dQpWUU6cY8RW+tHkKA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" tvg-name="Colors HD" group-title="SUNNXT " group-logo="GROUP LOGO" tvg-logo="Colors HD" tvg-logo="https://sund-images.sunnxt.com/26566/200x200_KTVHD_26566_adb8dbe5-9de3-4284-981d-fcbaa9638f2a.png",KTV HD
-https://otttv.co.in/sun/live.php?id=26566&e=.m3u8|Referer=https://otttv.co.in/
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NR5Uc5G7RcusZtLLnsDClA","k":"O9ZGdT9JA-7jtARkbHgZ0w"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26566/200x200_KTVHD_26566_adb8dbe5-9de3-4284-981d-fcbaa9638f2a.png",KTV HD
+https://livestream2.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hRDRbZ00DhzAv16/b6VHpA", "kid":"WWPH/MHOVJOFQAYbkX+74g" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" tvg-name="Colors HD" group-title="SUNNXT " group-logo="GROUP LOGO" tvg-logo="Colors HD" tvg-logo="https://sund-images.sunnxt.com/30846/200x200_UdayaTVHD_30846_25b8347b-f9bf-4d83-89d8-54f0a06b6dce.png",UDAYA HD(JIO TV DRM)
-https://otttv.co.in/sun/live.php?id=30846&e=.m3u8|Referer=https://otttv.co.in/
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"diMFZ_PARROn5dEkmrZZgw","k":"TubcmpnYlNxBsIeNbqInkA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png",GEMINI Music HD
+https://livestream2.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ubxF47Hp+pGtNiQ1iPgMng", "kid":"4WZ3OzDFXdOIcspNYhBHKQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" tvg-name="Colors HD" group-title="SUNNXT " group-logo="GROUP LOGO" tvg-logo="Colors HD" tvg-logo="https://sund-images.sunnxt.com/26570/200x200_GeminiMoviesHD_26570_0ca1d1e8-f04d-41d0-943d-5e8948e271bc.png",GEMINI MOVIES HD(JIO TV DRM)
-https://otttv.co.in/sun/live.php?id=26570&e=.m3u8|Referer=https://otttv.co.in/
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"taLG0TuXSN6c7rwKityK8w","k":"6Ab-wb8cioRCFhGMlLrQIA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="SUNNXT ",Sun Music HD
+https://livestream2.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
+
+-----Astro--
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gwdv8vaNF2S1WcQyq0nKEA","k":"699Wuko1YsyCBTopUpdUMg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="SunTV" tvg-name="SUN TV HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqsHX.png",SUN TV HD CH211
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zZ8HpD6Jsyvzrxv8fmyEsg", "kid":"DQMXtXwEWEKnAEg6RvEhLg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" tvg-name="Colors HD" group-title="SUNNXT " group-logo="GROUP LOGO" tvg-logo="Colors HD" tvg-logo="https://sund-images.sunnxt.com/14019/200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png",GEMINI TV HD(JIO TV DRM)
-https://otttv.co.in/sun/live.php?id=14019&e=.m3u8|Referer=https://otttv.co.in/
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rzVgin1LE9EVjC721sGgEA","k":"0ByBBQ36swnGvn5g0Dwtgg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="StarVijay" tvg-name="Star Vijay HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nqyf2.png",Star Vijay HD CH221
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nQLLoU3QQQWcQL8wcNfzLg", "kid":"iYh8w1OXV8SAK7P0sb7ULw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" tvg-name="Colors HD" group-title="SUNNXT " group-logo="GROUP LOGO" tvg-logo="https://sund-images.sunnxt.com/26572/200x200_GeminiLife_26572_797a9d8c-2ec2-4af8-b3dc-3b10c16c060d.png",GEMINI LIFE(JIO TV DRM)
-https://otttv.co.in/sun/live.php?id=26572&e=.m3u8|Referer=https://otttv.co.in/
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XT5xtCK3zC94LIf2AOWltA", "kid":"VIwEkQj5XDuB6kvv7lo6rg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" tvg-name="Colors HD" group-title="SUNNXT " group-logo="GROUP LOGO" tvg-logo="Colors HD" tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png",GEMINI Music(JIO TV DRM)
-https://otttv.co.in/sun/live.php?id=26568&e=.m3u8|Referer=https://otttv.co.in/
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K3sxhIyQR+IyVDuIO8WaGg", "kid":"NnYokKEbXtm8YzYmt7j8oQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" tvg-name="Colors HD" group-title="SUNNXT " group-logo="GROUP LOGO" tvg-logo="Colors HD" tvg-logo="https://sund-images.sunnxt.com/26571/200x200_KushiTV_26571_ef287cac-6e6f-4cc7-96e1-b92160acb927.png",Khusi TV(JIO TV DRM)
-https://otttv.co.in/sun/live.php?id=26571&e=.m3u8|Referer=https://otttv.co.in/
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xRQfkvi5lhOZB4wnOu0hnw", "kid":"2rkhuO+NVbaUXDxpIJ/W5A" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" tvg-name="Colors HD" group-title="SUNNXT " group-logo="GROUP LOGO" tvg-logo="Colors HD" tvg-logo="https://sund-images.sunnxt.com/9019/200x200_SuryaMovies_9019_6dae8158-5e95-469f-b597-465c51bd2cc0.png",Surya Movies(JIO TV DRM)
-https://otttv.co.in/sun/live.php?id=9019&e=.m3u8|Referer=https://otttv.co.in/
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="SUNNXT ",Sun Music HD
-https://otttv.co.in/sun/live.php?id=157496&e=.m3u8|Referer=https://otttv.co.in/
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUNNXT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCAR510v7CsNwecGrTC4dZfRhaV-ITfBTmzA&amp;usqp=CAU.png" group-title="SUNNXT ",Sun Marathi (NON-DRM)
-https://otttv.co.in/sun/live.php?id=945797&e=.m3u8|Referer=https://otttv.co.in/
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUNNXT" tvg-logo="https://sund-images.sunnxt.com/75117/200x200_SunBangla_75117_9ed56450-7740-4169-bef1-1b3d4cfbf692.png" group-title="SUNNXT ",Sun Bangla (NON-DRM)
-https://otttv.co.in/sun/live.php?id=945795&e=.m3u8|Referer=https://otttv.co.in/
-
-
-
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DU4-fawtWLk7-BmnL-jVEA","k":"Znoz9NW7NYfy1SCYhoOerA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ZeeTamilHD" tvg-name="Zee Tamil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NB3Ou.png",Zee Tamil HD CH223
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd
 
 #EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",STAR VIJAY HD (TAMIL SECTION)
 https://extratvteam.site/playlist/master.m3u8/?id=946255
