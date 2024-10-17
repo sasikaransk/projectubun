@@ -1605,7 +1605,7 @@ https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_inde
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Bdo4pG-3QDCI9BQ05E3pgA","k":"SIBGE5oeHWUyPP5LsbMLew"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26567/200x200_ChuttiTV_26567_9e566862-4ddb-4fea-90b6-1710aa5116fe.png",Chutti Tv
-https://livestream2.sunnxt.com/e3eccb3f250a4ca8826e42914b2322a6/ChuttiTV_IN_index.mpd
+https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1613,7 +1613,7 @@ https://livestream2.sunnxt.com/e3eccb3f250a4ca8826e42914b2322a6/ChuttiTV_IN_inde
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1nShp_Q2QaKb2IZ9h8clmg","k":"gS9V3N5oYZ_GrZWVGyQdLA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/9023/200x200_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png",Adhithya
-https://livestream2.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
+https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1637,7 +1637,7 @@ https://livestream2.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"diMFZ_PARROn5dEkmrZZgw","k":"TubcmpnYlNxBsIeNbqInkA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png",GEMINI Music HD
-https://livestream2.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
+https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
 
 
 
