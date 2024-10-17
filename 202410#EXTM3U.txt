@@ -46,7 +46,106 @@ https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CpgG93PrQY58j1YmeYuu_L3fYSm
 #EXTINF:-1 group-title="Bigg Boss 8 Live",Bigg Boss (Twitch Live 720p)
 https://dub.sh/ssssssiiio
 
+--Jio 2--
+#EXTINF:0 tvg-id="Travelxp.pl" group-title="JIO 2 - Lifestyle @ SASI",Travelxp HD
+https://jio.tamilbulbtv.live/live.php?id=164|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Lifestyle @ SASI",Travelxp Tamil
+https://jio.tamilbulbtv.live/live.php?id=814|Referer=https://jio.tamilbulbtv.live/
 
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="JIO 2 - Infotainment @ SASI",Discovery Turbo
+https://jio.tamilbulbtv.live/live.php?id=541|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",Sony BBC Earth HD English
+https://jio.tamilbulbtv.live/live.php?id=852|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="discov_rus" group-title="JIO 2 - Infotainment @ SASI",Discovery
+https://jio.tamilbulbtv.live/live.php?id=242|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",Sony BBC Earth HD Tamil
+https://jio.tamilbulbtv.live/live.php?id=853|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",Sony BBC Earth SD
+https://jio.tamilbulbtv.live/live.php?id=823|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",D Tamil
+https://jio.tamilbulbtv.live/live.php?id=569|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",History TV18 HD Tamil
+https://jio.tamilbulbtv.live/live.php?id=579|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="DiscoveryHD.in" group-title="JIO 2 - Infotainment @ SASI",Discovery HD World
+https://jio.tamilbulbtv.live/live.php?id=463|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",Sony BBC Earth HD
+https://jio.tamilbulbtv.live/live.php?id=821|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="HistoryTv18.in" group-title="JIO 2 - Infotainment @ SASI",History TV18 HD
+https://jio.tamilbulbtv.live/live.php?id=146|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",Animal Planet HD World
+https://jio.tamilbulbtv.live/live.php?id=286|Referer=https://jio.tamilbulbtv.live/
+
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",CN HD+ Tamil
+https://jio.tamilbulbtv.live/live.php?id=1081|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",Sony Yay Tamil
+https://jio.tamilbulbtv.live/live.php?id=873|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",Discovery Kids Tamil
+https://jio.tamilbulbtv.live/live.php?id=550|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",sonic Tamil
+https://jio.tamilbulbtv.live/live.php?id=290|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ChuttiTV.in" group-title="JIO 2 - Kids @ SASI",Chutti TV
+https://jio.tamilbulbtv.live/live.php?id=557|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",Nick Tamil
+https://jio.tamilbulbtv.live/live.php?id=546|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",Pogo Tamil
+https://jio.tamilbulbtv.live/live.php?id=542|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",CN HD+ English
+https://jio.tamilbulbtv.live/live.php?id=1079|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",Cartoon Network Tamil
+https://jio.tamilbulbtv.live/live.php?id=817|Referer=https://jio.tamilbulbtv.live/
+
+#EXTINF:0 tvg-id="RajMusix.in" group-title="JIO 2 - Music@ SASI",Raj Musix
+https://jio.tamilbulbtv.live/live.php?id=748|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="JayaMax.in" group-title="JIO 2 - Music@ SASI",Jaya Max
+https://jio.tamilbulbtv.live/live.php?id=420|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="SunMusic.in" group-title="JIO 2 - Music@ SASI",Sun Music HD
+https://jio.tamilbulbtv.live/live.php?id=895|Referer=https://jio.tamilbulbtv.live/
+
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Movies @ SASI",Zee Thirai
+https://jio.tamilbulbtv.live/live.php?id=2256|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Movies @ SASI",Sun Life
+https://jio.tamilbulbtv.live/live.php?id=682|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Movies @ SASI",J Movies
+https://jio.tamilbulbtv.live/live.php?id=417|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="KtvHD.in" group-title="JIO 2 - Movies @ SASI",KTV HD
+https://jio.tamilbulbtv.live/live.php?id=894|Referer=https://jio.tamilbulbtv.live/
+
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Colors Tamil
+https://jio.tamilbulbtv.live/live.php?id=1371|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="KalaignarTv.in" group-title="JIO 2 - Entertainment @ SASI",Kalaignar TV
+https://jio.tamilbulbtv.live/live.php?id=1209|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",DD5 Podhigai
+https://jio.tamilbulbtv.live/live.php?id=726|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Vasanth TV
+https://jio.tamilbulbtv.live/live.php?id=727|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="RajTv.in" group-title="JIO 2 - Entertainment @ SASI",Raj TV
+https://jio.tamilbulbtv.live/live.php?id=707|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Makkal TV
+https://jio.tamilbulbtv.live/live.php?id=708|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="AdithyaTV.in" group-title="JIO 2 - Entertainment @ SASI",Adithya TV
+https://jio.tamilbulbtv.live/live.php?id=709|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="KairaliTv.in" group-title="JIO 2 - Entertainment @ SASI",Kairali TV
+https://jio.tamilbulbtv.live/live.php?id=710|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Captain tv
+https://jio.tamilbulbtv.live/live.php?id=711|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="PolimerTv.in" group-title="JIO 2 - Entertainment @ SASI",Polimer TV
+https://jio.tamilbulbtv.live/live.php?id=705|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Puthu Yugam
+https://jio.tamilbulbtv.live/live.php?id=824|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Jaya TV HD
+https://jio.tamilbulbtv.live/live.php?id=419|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Vendhar TV
+https://jio.tamilbulbtv.live/live.php?id=857|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Jaya TV HD
+https://jio.tamilbulbtv.live/live.php?id=419|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Colors Tamil HD
+https://jio.tamilbulbtv.live/live.php?id=429|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Vijay HD
+https://tamilultra.in/master.m3u8?c=STAR_VIJAY&server=1|Referer=https://tamilultra.in/
+#EXTINF:0 tvg-id="SunTvHD.in" group-title="JIO 2 - Entertainment @ SASI",Sun TV HD
+https://jio.tamilbulbtv.live/live.php?id=896|Referer=https://jio.tamilbulbtv.live/
+
+--Jio 1---
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Cricket English HD
 https://colorsscreen.com/live.php?id=1918|Referer=https://mhdtv.co.in
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Sony Ten 5 HD
@@ -1612,7 +1711,7 @@ https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_inde
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1nShp_Q2QaKb2IZ9h8clmg","k":"gS9V3N5oYZ_GrZWVGyQdLA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/9023/200x200_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png",Adhithya
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/9023/200x200_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png",Adithya
 https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
 
 
@@ -1698,223 +1797,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 #EXTINF:-1 tvg-id="ZeeTamilHD" tvg-name="Zee Tamil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NB3Ou.png",Zee Tamil HD CH223
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",STAR VIJAY HD (TAMIL SECTION)
-https://extratvteam.site/playlist/master.m3u8/?id=946255
-#EXTINF:0 tvg-id="SunTvHD.in" group-title="TAMIL @ SASI" user-agent="extratvteam.site",SUN TV HD
-https://extratvteam.site/playlist/master.m3u8/?id=155880
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",ZEE TAMIL HD
-https://extratvteam.site/playlist/master.m3u8/?id=281862
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",K TV HD
-https://extratvteam.site/playlist/master.m3u8/?id=155882
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",TATAPLAY TAMIL CINEMA
-https://extratvteam.site/playlist/master.m3u8/?id=155883
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",STAR VIJAY SUPER
-https://extratvteam.site/playlist/master.m3u8/?id=155875
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",ZEE THIRAI HD
-http://humiptv.live:8080/live/wasim/wasim1234/181966.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",ZEE THIRAI
-https://extratvteam.site/playlist/master.m3u8/?id=155912
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",J MOVIE
-https://extratvteam.site/playlist/master.m3u8/?id=155921
-#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="TAMIL @ SASI" user-agent="extratvteam.site",RAJ DIGITAL PLUS
-https://extratvteam.site/playlist/master.m3u8/?id=155908
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",SUN LIFE
-https://extratvteam.site/playlist/master.m3u8/?id=155889
-#EXTINF:0 tvg-id="KalaignarMurasu.in" group-title="TAMIL @ SASI",MURASU
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
-#EXTINF:0 tvg-id="SunMusic.in" group-title="TAMIL @ SASI" user-agent="extratvteam.site",SUN MUSIC HD
-https://extratvteam.site/playlist/master.m3u8/?id=155881
-#EXTINF:0 tvg-id="JayaMax.in" group-title="TAMIL @ SASI" user-agent="extratvteam.site",JAYA MAX
-https://extratvteam.site/playlist/master.m3u8/?id=155893
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",ISAIARUVI (MOBILE ONLY)
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",ISAIARUVI
-http://humiptv.live:8080/live/112233123/112233123/26165.ts
-#EXTINF:0 tvg-id="7SMusic.in" group-title="TAMIL @ SASI" user-agent="extratvteam.site",7S MUSIC
-https://extratvteam.site/playlist/master.m3u8/?id=281866
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",ADHITHYA TV
-https://extratvteam.site/playlist/master.m3u8/?id=155892
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",CHITIRAM TV
-https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",COLORS TAMIL 4K
-http://humiptv.live:8080/live/112233123/112233123/98911.ts
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",IBC TAMIL
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8?k=5
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",SOORIYAN TV
-https://media1.radioservers.biz:1936/sooriyantv/sooriyantv/playlist.m3u8?m=45
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",VASANTHAM TV
-https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/rewind-10800.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",ATHAVAN TV
-https://1cloud.digital/aadhavantv/adhavanmdu.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",IBC ISAI
-https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8?f=3
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",MAKKAL TV
-http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",JAYA TV HD
-https://extratvteam.site/playlist/master.m3u8/?id=155878
-#EXTINF:0 tvg-id="JayaPlus.in" group-title="TAMIL @ SASI" user-agent="extratvteam.site",JAYA PLUS
-https://extratvteam.site/playlist/master.m3u8/?id=155891
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",NEWS7 TAMIL
-https://extratvteam.site/playlist/master.m3u8/?id=155918
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",NEWS 18 TAMILNADU
-https://extratvteam.site/playlist/master.m3u8/?id=155914
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",SUN NEWS TAMIL
-https://extratvteam.site/playlist/master.m3u8/?id=155890
-#EXTINF:0 tvg-id="CaptainNews.in" group-title="TAMIL @ SASI" user-agent="extratvteam.site",CAPTAIN NEWS
-https://extratvteam.site/playlist/master.m3u8/?id=155923
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",POLIMER NEWS
-https://extratvteam.site/playlist/master.m3u8/?id=155902
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",PUTHIYA THALIMURAI
-https://extratvteam.site/playlist/master.m3u8/?id=155919
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",RAJ NEWS
-https://extratvteam.site/playlist/master.m3u8/?id=155905
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",SATHIYAM TV
-https://extratvteam.site/playlist/master.m3u8/?id=155906
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",WIN NEWS
-https://extratvteam.site/playlist/master.m3u8/?id=155926
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",KALAIGNAR SEITHIGAL [OTT NAVIGATOR ONLY]
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/watch?v=lCegg1bhcTg&pp=ygUYa2FsYWlnbmFyIHNlaXRoaWdhbCBsaXZl
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",NEWS J [OTT NAVIGATOR ONLY]
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/watch?v=F6GnuiuvBzI&pp=ygUGTmV3cyBK
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",MALAIMURASU SEITHIGAL
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/watch?v=CqERql6nLa0
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",SAMUGAM NEWS
-https://ca.streamjo.com/live/samugam.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",SONY BBC EARTH TAMIL
-https://extratvteam.site/playlist/master.m3u8/?id=155885
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",DD PODHIGAI
-https://extratvteam.site/playlist/master.m3u8/?id=155911
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",D TAMIL
-https://extratvteam.site/playlist/master.m3u8/?id=281850
-#EXTINF:0 tvg-id="ChuttiTV.in" group-title="TAMIL @ SASI" user-agent="extratvteam.site",CHUTTI TV
-https://extratvteam.site/playlist/master.m3u8/?id=155896
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",FOX LIFE HD TAMIL
-https://extratvteam.site/playlist/master.m3u8/?id=155887
-#EXTINF:0 tvg-id="ImayamTv.in" group-title="TAMIL @ SASI" user-agent="extratvteam.site",IMAYAM TV
-https://extratvteam.site/playlist/master.m3u8/?id=155928
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",MADHA TV
-https://extratvteam.site/playlist/master.m3u8/?id=155929
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",MADHIMUGAM TV
-https://extratvteam.site/playlist/master.m3u8/?id=155904
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",MOON TV
-https://extratvteam.site/playlist/master.m3u8/?id=155931
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",NAMBIKKAI TV
-https://extratvteam.site/playlist/master.m3u8/?id=155925
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",NATIONAL GEOGRAPHIC TAMIL
-https://extratvteam.site/playlist/master.m3u8/?id=155884
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",NAT GEO WILD TAMIL HD
-https://extratvteam.site/playlist/master.m3u8/?id=155877
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",ANIMAL PLANET HD TAMIL (AIRTEL SERVER)
-https://extratvteam.site/playlist/master.m3u8/?id=281983
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",ANIMAL PLANET HD TAMIL (DISHTV SERVER)
-https://extratvteam.site/playlist/master.m3u8/?id=282679
-#EXTINF:0 tvg-id="PolimerTv.in" group-title="TAMIL @ SASI" user-agent="extratvteam.site",POLIMER TV
-https://extratvteam.site/playlist/master.m3u8/?id=155909
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",PUTHUYUGAM
-https://extratvteam.site/playlist/master.m3u8/?id=155898
-#EXTINF:0 tvg-id="RajTv.in" group-title="TAMIL @ SASI" user-agent="extratvteam.site",RAJ TV
-https://extratvteam.site/playlist/master.m3u8/?id=155910
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",TAMILAN TV
-https://extratvteam.site/playlist/master.m3u8/?id=155932
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",VELICHAM
-https://extratvteam.site/playlist/master.m3u8/?id=155927
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",VENDHAR TV
-https://extratvteam.site/playlist/master.m3u8/?id=155903
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",VASANTH TV
-https://extratvteam.site/playlist/master.m3u8/?id=155895
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",DHEERAN TV
-https://extratvteam.site/playlist/master.m3u8/?id=281874
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",SAI TV
-https://extratvteam.site/playlist/master.m3u8/?id=281902
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",THANTHI TV
-https://extratvteam.site/playlist/master.m3u8/?id=281908
-#EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI" user-agent="extratvteam.site",VENDHAR TV
-https://extratvteam.site/playlist/master.m3u8/?id=281914
 #EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",VAANAVIL TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| ZEE TELUGU HD
-https://extratvteam.site/playlist/master.m3u8/?id=155866
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| ZEE TELUGU
-https://extratvteam.site/playlist/master.m3u8/?id=281963
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| ZEE CINEMALU HD
-https://extratvteam.site/playlist/master.m3u8/?id=281954
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| ZEE CINEMALU
-https://extratvteam.site/playlist/master.m3u8/?id=155872
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| BHAKTI TV
-https://extratvteam.site/playlist/master.m3u8/?id=155854
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| GEMINI TV
-https://extratvteam.site/playlist/master.m3u8/?id=281958
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| GEMINI HD
-https://extratvteam.site/playlist/master.m3u8/?id=155850
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| GEMINI MOVIES HD
-https://extratvteam.site/playlist/master.m3u8/?id=155851
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| GEMINI LIFE
-https://extratvteam.site/playlist/master.m3u8/?id=155858
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| GEMINI MUSIC
-https://extratvteam.site/playlist/master.m3u8/?id=155857
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| GEMINI COMEDY
-https://extratvteam.site/playlist/master.m3u8/?id=155844
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| ETV HD
-https://extratvteam.site/playlist/master.m3u8/?id=155852
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| ETV
-https://extratvteam.site/playlist/master.m3u8/?id=281956
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| ETV LIFE
-https://extratvteam.site/playlist/master.m3u8/?id=155856
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| ETV PLUS
-https://extratvteam.site/playlist/master.m3u8/?id=155855
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| ETV CINEMA TELUGU
-https://extratvteam.site/playlist/master.m3u8/?id=155853
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| STAR MAA HD
-https://extratvteam.site/playlist/master.m3u8/?id=155843
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| STAR MAA MOVIES HD
-https://extratvteam.site/playlist/master.m3u8/?id=155842
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| STAR MAA GOLD
-https://extratvteam.site/playlist/master.m3u8/?id=155860
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| 10 TV
-https://extratvteam.site/playlist/master.m3u8/?id=155864
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| BBC EARTH HD
-https://extratvteam.site/playlist/master.m3u8/?id=155848
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| HISTORY TV 18 HD
-https://extratvteam.site/playlist/master.m3u8/?id=155849
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| HISTORY
-https://extratvteam.site/playlist/master.m3u8/?id=281959
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| DISCOVERY WORLD HD
-https://extratvteam.site/playlist/master.m3u8/?id=155845
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| NAT GEO TELUGU HD
-https://extratvteam.site/playlist/master.m3u8/?id=155847
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| NAT GEO WILD
-https://extratvteam.site/playlist/master.m3u8/?id=281962
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| KUSHI TV
-https://extratvteam.site/playlist/master.m3u8/?id=155868
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| TV5 NEWS
-https://extratvteam.site/playlist/master.m3u8/?id=155861
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| TV 9
-https://extratvteam.site/playlist/master.m3u8/?id=281982
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| TV9 TELUGU NEWS
-https://extratvteam.site/playlist/master.m3u8/?id=155863
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| TATA PLAY TELUGU CINEMA HD
-https://extratvteam.site/playlist/master.m3u8/?id=155846
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| V6 NEWS
-https://extratvteam.site/playlist/master.m3u8/?id=155859
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| VANITHA TV
-https://extratvteam.site/playlist/master.m3u8/?id=155871
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| MAATV
-https://extratvteam.site/playlist/master.m3u8/?id=281960
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| MAA MOVIES
-https://extratvteam.site/playlist/master.m3u8/?id=281953
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| MAA GOLD
-https://extratvteam.site/playlist/master.m3u8/?id=281968
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| CINEMA
-https://extratvteam.site/playlist/master.m3u8/?id=281955
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| HOLLYWOOD LOCAL
-https://extratvteam.site/playlist/master.m3u8/?id=1097632
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| KUSHITV
-https://extratvteam.site/playlist/master.m3u8/?id=1097630
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| UDAYA MOVIES
-https://extratvteam.site/playlist/master.m3u8/?id=1097629
-#EXTINF:0 tvg-id="ext" group-title="TELUGU @ SASI" user-agent="extratvteam.site",TELUGU| STUDIO ONEP
-https://extratvteam.site/playlist/master.m3u8/?id=1097627
 
 
 
@@ -1962,27 +1847,8 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelspanish_all/pla
 
 #EXTINF:0 tvg-id="ext" group-title="UK @ SASI",VIJAY TV UK (YUPP TV)
 https://yuppftalive.akamaized.net/040622/starvijay/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="UK @ SASI" user-agent="extratvteam.site",UTSAV PLUS UK
-https://extratvteam.site/playlist/master.m3u8/?id=945574
-#EXTINF:0 tvg-id="ext" group-title="UK @ SASI" user-agent="extratvteam.site",UTSAV BHARAT UK
-https://extratvteam.site/playlist/master.m3u8/?id=57119
-#EXTINF:0 tvg-id="ext" group-title="UK @ SASI" user-agent="extratvteam.site",UTSAV GOLD UK
-https://extratvteam.site/playlist/master.m3u8/?id=267600
-#EXTINF:0 tvg-id="Colors.uk" group-title="UK @ SASI" user-agent="extratvteam.site",COLORS UK
-https://extratvteam.site/playlist/master.m3u8/?id=945588
-#EXTINF:0 tvg-id="ext" group-title="UK @ SASI" user-agent="extratvteam.site",COLORS BANGLA UK
-https://extratvteam.site/playlist/master.m3u8/?id=945586
-#EXTINF:0 tvg-id="ext" group-title="UK @ SASI" user-agent="extratvteam.site",COLORS MARATHI UK
-https://extratvteam.site/playlist/master.m3u8/?id=945559
-#EXTINF:0 tvg-id="ext" group-title="UK @ SASI" user-agent="extratvteam.site",COLORS KANNADA UK
-https://extratvteam.site/playlist/master.m3u8/?id=945560
-#EXTINF:0 tvg-id="ext" group-title="UK @ SASI" user-agent="extratvteam.site",COLORS CINEPLEX UK
-https://extratvteam.site/playlist/master.m3u8/?id=945589
-#EXTINF:0 tvg-id="ext" group-title="UK @ SASI" user-agent="extratvteam.site",ETV UK
-https://extratvteam.site/playlist/master.m3u8/?id=945591
-#EXTINF:0 tvg-id="ATNBanglaUK.uk" group-title="UK @ SASI" user-agent="extratvteam.site",ATN BANGLA UK
-https://extratvteam.site/playlist/master.m3u8/?id=225722
 
+------Tamil Local ----------
 #EXTINF:0 tvg-id="ext" group-title="TAMIL LOCAL CHANNELS",Rasi TV
 http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TAMIL LOCAL CHANNELS",Rasi Tamil
