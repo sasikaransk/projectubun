@@ -112,6 +112,8 @@ https://jio.tamilbulbtv.live/live.php?id=894|Referer=https://jio.tamilbulbtv.liv
 
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Colors Tamil
 https://jio.tamilbulbtv.live/live.php?id=1371|Referer=https://jio.tamilbulbtv.live/
+#EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Thanthi 1
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8|Referer=https://ap-south-1.playback.live-video.net
 #EXTINF:0 tvg-id="KalaignarTv.in" group-title="JIO 2 - Entertainment @ SASI",Kalaignar TV
 https://jio.tamilbulbtv.live/live.php?id=1209|Referer=https://jio.tamilbulbtv.live/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",DD5 Podhigai
@@ -263,10 +265,6 @@ https://colorsscreen.com/live.php?id=757|Referer=https://colorsscreen.com/
 https://colorsscreen.com/live.php?id=689|Referer=https://colorsscreen.com/
 #EXTINF:0 tvg-id="ComedyCentral.uk" group-title="JIO TV - Entertainment @ SASI",Comedy Central HD
 https://colorsscreen.com/live.php?id=1157|Referer=https://colorsscreen.com/
-#EXTINF:0 tvg-id="ZeeTelugu.in" group-title="JIO TV - Entertainment @ SASI",Zee Telugu
-https://colorsscreen.com/live.php?id=638|Referer=https://colorsscreen.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Zee Tamil
-https://colorsscreen.com/live.php?id=628|Referer=https://colorsscreen.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Colors Gujarati
 https://colorsscreen.com/live.php?id=196|Referer=https://colorsscreen.com/
 #EXTINF:0 tvg-id="ZeeBangla.in" group-title="JIO TV - Entertainment @ SASI",Zee Bangla
@@ -291,8 +289,6 @@ https://colorsscreen.com/live.php?id=202|Referer=https://colorsscreen.com/
 https://colorsscreen.com/live.php?id=532|Referer=https://colorsscreen.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Colors Tamil HD
 https://colorsscreen.com/live.php?id=429|Referer=https://colorsscreen.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Vijay HD
-https://tamilultra.in/master.m3u8?c=STAR_VIJAY&server=1|Referer=https://tamilultra.in/
 #EXTINF:0 tvg-id="SunTvHD.in" group-title="JIO TV - Entertainment @ SASI",Sun TV HD
 https://colorsscreen.com/live.php?id=896|Referer=https://colorsscreen.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",DD Madhya Pradesh
