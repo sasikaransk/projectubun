@@ -36,6 +36,160 @@ https://live.peotv.com/bpk-tv/108/output/index.m3u8
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Extra Tamil",Zee Tamil HD
 http://217.20.112.199:8888/ZeeTamil/index.m3u8
+
+---4k----
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",COLORS TAMIL USA
+http://port.denver1769.in/s4k2.php?tv=3374
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",COLORS TAMIL BK
+http://port.denver1769.in/s4k2.php?tv=3376
+#EXTINF:0 tvg-id="SunTvHD.in" group-title="TAMIL | TV",SUN TV HD
+http://port.denver1769.in/s4k2.php?tv=3378
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",ZEE TAMIL USA
+http://port.denver1769.in/s4k2.php?tv=3380
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",ZEE TAMIL BK
+http://port.denver1769.in/s4k2.php?tv=3382
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",STAR VIJAY HD
+http://port.denver1769.in/s4k2.php?tv=3384
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",STAR VIJAY MUSIC HD
+http://port.denver1769.in/s4k2.php?tv=3387
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",IBC TAMIL
+http://port.denver1769.in/s4k2.php?tv=3390
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",VIJAY SUPER
+http://port.denver1769.in/s4k2.php?tv=3395
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",PUTHUYUGAM TV
+http://port.denver1769.in/s4k2.php?tv=3399
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",ANIMAL PLANET TAMIL
+http://port.denver1769.in/s4k2.php?tv=3402
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",NAT GEO WILD TAMIL
+http://port.denver1769.in/s4k2.php?tv=3404
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",HISTORY TV 18 TAMIL
+http://port.denver1769.in/s4k2.php?tv=3406
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",DISCOVERY WORLD TAMIL
+http://port.denver1769.in/s4k2.php?tv=3408
+#EXTINF:0 tvg-id="KtvHD.in" group-title="TAMIL | TV",KTV HD
+http://port.denver1769.in/s4k2.php?tv=3410
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",SUN LIFE USA
+http://port.denver1769.in/s4k2.php?tv=3412
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",SUN LIFE BK
+http://port.denver1769.in/s4k2.php?tv=3414
+#EXTINF:0 tvg-id="SunMusic.in" group-title="TAMIL | TV",SUN MUSIC HD
+http://port.denver1769.in/s4k2.php?tv=3416
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",RAJ TV USA
+http://port.denver1769.in/s4k2.php?tv=3418
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",RAJ TV BK
+http://port.denver1769.in/s4k2.php?tv=3420
+#EXTINF:0 tvg-id="7SMusic.in" group-title="TAMIL | TV",7S MUSIC
+http://port.denver1769.in/s4k2.php?tv=3423
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",JAYA MOVIES BK
+http://port.denver1769.in/s4k2.php?tv=3426
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",RAJ DIGITAL PLUS USA
+http://port.denver1769.in/s4k2.php?tv=3428
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",RAJ DIGITAL PLUS HD
+http://port.denver1769.in/s4k2.php?tv=3430
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",JAYA MAX USA
+http://port.denver1769.in/s4k2.php?tv=3432
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",JAYA MAX HD
+http://port.denver1769.in/s4k2.php?tv=3434
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",SUN NEWS USA
+http://port.denver1769.in/s4k2.php?tv=3436
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",SUN NEWS BK
+http://port.denver1769.in/s4k2.php?tv=3438
+#EXTINF:0 tvg-id="JayaPlus.in" group-title="TAMIL | TV",JAYA PLUS
+http://port.denver1769.in/s4k2.php?tv=3440
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",NEWS J BK
+http://port.denver1769.in/s4k2.php?tv=3443
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",NEWS 7 HD
+http://port.denver1769.in/s4k2.php?tv=3445
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",POLIMER NEWS
+http://port.denver1769.in/s4k2.php?tv=3448
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",TV9 NEWS TAMIL
+http://port.denver1769.in/s4k2.php?tv=3450
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",SEITHIGAL TV
+http://port.denver1769.in/s4k2.php?tv=3452
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",ADHITIYA TV HD
+http://port.denver1769.in/s4k2.php?tv=3455
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",SIRIPOLI TV
+http://port.denver1769.in/s4k2.php?tv=3457
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",CAPTAIN TV
+http://port.denver1769.in/s4k2.php?tv=3459
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",MALAI MURUAI
+http://port.denver1769.in/s4k2.php?tv=3461
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",DHEERAN TV
+http://port.denver1769.in/s4k2.php?tv=3463
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",JAYA T HD
+http://port.denver1769.in/s4k2.php?tv=3465
+#EXTINF:0 tvg-id="KalaignarTv.in" group-title="TAMIL | TV",KALAIGNAR TV
+http://port.denver1769.in/s4k2.php?tv=3467
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",SRI SANKARA TAMIL
+http://port.denver1769.in/s4k2.php?tv=3469
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",MADHA TV
+http://port.denver1769.in/s4k2.php?tv=3473
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",MADHIMUGHAM TV
+http://port.denver1769.in/s4k2.php?tv=3475
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",PUTHIYA THALIMURAI
+http://port.denver1769.in/s4k2.php?tv=3477
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",VENDHAR TV
+http://port.denver1769.in/s4k2.php?tv=3480
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",SONY YAY TAMIL
+http://port.denver1769.in/s4k2.php?tv=3483
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",DISCOVERY KIDS TAMIL HD
+http://port.denver1769.in/s4k2.php?tv=3485
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",TUNES 6
+http://port.denver1769.in/s4k2.php?tv=3487
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",MK SIX
+http://port.denver1769.in/s4k2.php?tv=3490
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",KALAIGNAR TV UK
+http://port.denver1769.in/s4k2.php?tv=3495
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",MOON TV
+http://port.denver1769.in/s4k2.php?tv=3499
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",MK TV
+http://port.denver1769.in/s4k2.php?tv=3501
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",EET TV
+http://port.denver1769.in/s4k2.php?tv=3508
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",VAANAVIL TV
+http://port.denver1769.in/s4k2.php?tv=3513
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",STUDIO ONE PMC
+http://port.denver1769.in/s4k2.php?tv=3516
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",3 TAMIL TV
+http://port.denver1769.in/s4k2.php?tv=474929
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",ATHAVAN TV HD
+http://port.denver1769.in/s4k2.php?tv=474931
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",HARVEST USA
+http://port.denver1769.in/s4k2.php?tv=474933
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",JOTHI TV
+http://port.denver1769.in/s4k2.php?tv=474937
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",NICK TAMIL
+http://port.denver1769.in/s4k2.php?tv=474939
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",POGO TAMIL
+http://port.denver1769.in/s4k2.php?tv=474941
+
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",TAMIL BOX OFFICE MOVIE 1
+http://port.denver1769.in/s4k2.php?tv=475474
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",TAMIL BOX OFFICE MOVIE 3
+http://port.denver1769.in/s4k2.php?tv=475476
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",TAMIL BOX OFFICE MOVIE 5
+http://port.denver1769.in/s4k2.php?tv=475478
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",4K TAMIL MOVIE 2
+http://port.denver1769.in/s4k2.php?tv=3608
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",4K TAMIL MOVIE 4
+http://port.denver1769.in/s4k2.php?tv=3610
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",4K TAMIL MOVIE 6
+http://port.denver1769.in/s4k2.php?tv=3612
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",4K TAMIL MOVIE 8
+http://port.denver1769.in/s4k2.php?tv=3614
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",4K TAMIL MOVIE 10
+http://port.denver1769.in/s4k2.php?tv=3616
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",4K TAMIL MOVIE 12
+http://port.denver1769.in/s4k2.php?tv=3618
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",4K TAMIL MOVIE 14
+http://port.denver1769.in/s4k2.php?tv=3620
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",4K TAMIL MOVIE 16
+http://port.denver1769.in/s4k2.php?tv=3622
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",4K TAMIL MOVIE 18
+http://port.denver1769.in/s4k2.php?tv=3624
+#EXTINF:0 tvg-id="ext" group-title="TAMIL | 24X7 MOVIES",4K TAMIL MOVIE 20
+http://port.denver1769.in/s4k2.php?tv=3626
+
 #EXTINF:-1 group-title="Bigg Boss 8 Live",Bigg Boss (Tamil Gun)
 https://live.tamiltool.online/livestream-source.m3u8
 #EXTINF:-1 group-title="Bigg Boss 8 Live",Bigg Boss (Tamil Dhool)
