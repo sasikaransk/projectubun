@@ -1884,6 +1884,16 @@ https://livestream2.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AAAJAA8AAwANAAAACQAA","k":"CgAMAAAJDAAAAA0ADACiAMIADgAA0gAJvAUKCg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="",dialog HD
+https://watch.livecricketsl.xyz/live/proxy.php/96/A1EARwYDCQoIAQ==/index.mpd
+
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="",dialog 2 HD
+https://watch.livecricketsl.xyz/live/proxy.php/96/A1EARwYDCQoIAQ==/index.mpd?wv=aHR0cHM6Ly9pcHR2LmxpdmVjcmlja2V0c2wueHl6L3d2L29sbC5waHA%2FaWQ9QTFFQVJ3WURDUW9JQVE9PQ%3D%3D
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"diMFZ_PARROn5dEkmrZZgw","k":"TubcmpnYlNxBsIeNbqInkA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png",GEMINI Music HD
 https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
