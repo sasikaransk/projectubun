@@ -18,7 +18,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vqypRh98oNWLpSn-0ue2EA","k":"2gpwFI4SbrQMzgJmV1OJbQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="SunMusic" tvg-name="Sun Music HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqLRn.png",Sun Music HD CH212
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqLRn.png",Sun Music HD CH212
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
