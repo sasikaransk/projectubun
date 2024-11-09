@@ -200,6 +200,11 @@ https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CpgG93PrQY58j1YmeYuu_L3fYSm
 #EXTINF:-1 group-title="Bigg Boss 8 Live",Bigg Boss (Twitch Live 720p)
 https://dub.sh/ssssssiiio
 
+---Mrking ---
+#EXTINF:0 tvg-id="" group-title="MR_KING",Vijay Tv HD
+https://mrking.site/Jon.php?id=987|Referer=https://mrking.site/
+#EXTINF:0 tvg-id="" group-title="MR_KING",Zee Tamil HD
+https://mrking.online/Zo/stream.m3u8?id=0-9-zeetamil|Referer=https://mrking.site/
 
 --Jio 2--
 #EXTINF:0 tvg-id="Travelxp.pl" group-title="JIO 2 - Lifestyle @ SASI",Travelxp HD
