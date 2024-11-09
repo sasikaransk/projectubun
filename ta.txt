@@ -1,0 +1,57 @@
+-----Astro--
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gwdv8vaNF2S1WcQyq0nKEA","k":"699Wuko1YsyCBTopUpdUMg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="SunTV" tvg-name="SUN TV HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqsHX.png",SUN TV HD CH211
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hZ9bIFTEBz6PDaRj0gi5EA","k":"XrN2KxpGMaC5jiXiPO8Bkw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqZDG.png",Adithya CH214
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vqypRh98oNWLpSn-0ue2EA","k":"2gpwFI4SbrQMzgJmV1OJbQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="SunMusic" tvg-name="Sun Music HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqLRn.png",Sun Music HD CH212
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nESvi1lLYVf1XTwxvWecEA","k":"wSi75B6U0Vp_jML2JTpUsg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AstroVellithirai" tvg-name="Astro Vellithirai" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nq6lI.png",Astro Vellithirai CH203
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ckmcatRMw32VqQdUIJEREA","k":"tUFjJhFKE-kGYqT7rzxTKw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nq4KN.png",Astro Vaanavil HD CH201
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rzVgin1LE9EVjC721sGgEA","k":"0ByBBQ36swnGvn5g0Dwtgg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="StarVijay" tvg-name="Star Vijay HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nqyf2.png",Star Vijay HD CH221
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DU4-fawtWLk7-BmnL-jVEA","k":"Znoz9NW7NYfy1SCYhoOerA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ZeeTamilHD" tvg-name="Zee Tamil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NB3Ou.png",Zee Tamil HD CH223
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"5GNU-znCjllWvJRqwqBQEA","k":"URkFvxkUdLQStOwRdRWnnA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ColorsTamilHD" tvg-name="Colors Tamil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NBdJ9.png",Colors Tamil HD CH222
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
