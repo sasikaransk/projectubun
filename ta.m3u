@@ -53,6 +53,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"5GNU-znCjllWvJRqwqBQEA","k":"URkFvxkUdLQStOwRdRWnnA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
 #EXTINF:-1 tvg-id="ColorsTamilHD" tvg-name="Colors Tamil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NBdJ9.png",Colors Tamil HD CH222
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
