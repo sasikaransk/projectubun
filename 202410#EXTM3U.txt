@@ -204,7 +204,7 @@ https://dub.sh/ssssssiiio
 #EXTINF:0 tvg-id="" group-title="MR_KING",Vijay Tv HD
 https://mrking.site/Jon.php?id=987|Referer=https://mrking.site/
 #EXTINF:0 tvg-id="" group-title="MR_KING",Zee Tamil HD
-https://mrking.online/Zo/stream.m3u8?id=0-9-zeetamil
+https://mrking.online/Zo/stream.m3u8?id=0-9-zeetamil|Referer=https://mrking.online/
 
 --Jio 2--
 #EXTINF:0 tvg-id="Travelxp.pl" group-title="JIO 2 - Lifestyle @ SASI",Travelxp HD
