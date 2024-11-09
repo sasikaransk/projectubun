@@ -200,108 +200,6 @@ https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CpgG93PrQY58j1YmeYuu_L3fYSm
 #EXTINF:-1 group-title="Bigg Boss 8 Live",Bigg Boss (Twitch Live 720p)
 https://dub.sh/ssssssiiio
 
----Jio Ultra-
-
-#EXTINF:0 tvg-id="Travelxp.pl" group-title="JIO Ultra - Lifestyle @ SASI",Travelxp HD
-https://jio.tamilultratv.com/app/ts_live_164.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Lifestyle @ SASI",Travelxp Tamil
-https://jio.tamilultratv.com/app/ts_live_814.m3u8|Referer=https://jio.tamilultratv.com/
-
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="JIO Ultra - Infotainment @ SASI",Discovery Turbo
-https://jio.tamilultratv.com/app/ts_live_541.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Infotainment @ SASI",Sony BBC Earth HD English
-https://jio.tamilultratv.com/app/ts_live_852.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="discov_rus" group-title="JIO Ultra - Infotainment @ SASI",Discovery
-https://jio.tamilultratv.com/app/ts_live_242.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Infotainment @ SASI",Sony BBC Earth HD Tamil
-https://jio.tamilultratv.com/app/ts_live_853.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Infotainment @ SASI",Sony BBC Earth SD
-https://jio.tamilultratv.com/app/ts_live_823.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Infotainment @ SASI",D Tamil
-https://jio.tamilultratv.com/app/ts_live_569.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Infotainment @ SASI",History TV18 HD Tamil
-https://jio.tamilultratv.com/app/ts_live_579.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="DiscoveryHD.in" group-title="JIO Ultra - Infotainment @ SASI",Discovery HD World
-https://jio.tamilultratv.com/app/ts_live_463.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Infotainment @ SASI",Sony BBC Earth HD
-https://jio.tamilultratv.com/app/ts_live_821.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="HistoryTv18.in" group-title="JIO Ultra - Infotainment @ SASI",History TV18 HD
-https://jio.tamilultratv.com/app/ts_live_146.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Infotainment @ SASI",Animal Planet HD World
-https://jio.tamilultratv.com/app/ts_live_286.m3u8|Referer=https://jio.tamilultratv.com/
-
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Kids @ SASI",CN HD+ Tamil
-https://jio.tamilultratv.com/app/ts_live_1081.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Kids @ SASI",Sony Yay Tamil
-https://jio.tamilultratv.com/app/ts_live_873.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Kids @ SASI",Discovery Kids Tamil
-https://jio.tamilultratv.com/app/ts_live_550.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Kids @ SASI",sonic Tamil
-https://jio.tamilultratv.com/app/ts_live_290.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ChuttiTV.in" group-title="JIO Ultra - Kids @ SASI",Chutti TV
-https://jio.tamilultratv.com/app/ts_live_557.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Kids @ SASI",Nick Tamil
-https://jio.tamilultratv.com/app/ts_live_546.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Kids @ SASI",Pogo Tamil
-https://jio.tamilultratv.com/app/ts_live_542.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Kids @ SASI",CN HD+ English
-https://jio.tamilultratv.com/app/ts_live_1079.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Kids @ SASI",Cartoon Network Tamil
-https://jio.tamilultratv.com/app/ts_live_817.m3u8|Referer=https://jio.tamilultratv.com/
-
-#EXTINF:0 tvg-id="RajMusix.in" group-title="JIO Ultra - Music@ SASI",Raj Musix
-https://jio.tamilultratv.com/app/ts_live_748.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="JayaMax.in" group-title="JIO Ultra - Music@ SASI",Jaya Max
-https://jio.tamilultratv.com/app/ts_live_420.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="SunMusic.in" group-title="JIO Ultra - Music@ SASI",Sun Music HD
-https://jio.tamilultratv.com/app/ts_live_895.m3u8|Referer=https://jio.tamilultratv.com/
-
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Movies @ SASI",Zee Thirai
-https://jio.tamilultratv.com/app/ts_live_2256.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Movies @ SASI",Sun Life
-https://jio.tamilultratv.com/app/ts_live_682.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Movies @ SASI",J Movies
-https://jio.tamilultratv.com/app/ts_live_417.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="KtvHD.in" group-title="JIO Ultra - Movies @ SASI",KTV HD
-https://jio.tamilultratv.com/app/ts_live_894.m3u8|Referer=https://jio.tamilultratv.com/
-
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",Colors Tamil
-https://jio.tamilultratv.com/app/ts_live_1371.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",Thanthi 1
-https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8.m3u8|Referer=https://ap-south-1.playback.live-video.net
-#EXTINF:0 tvg-id="KalaignarTv.in" group-title="JIO Ultra - Entertainment @ SASI",Kalaignar TV
-https://jio.tamilultratv.com/app/ts_live_1209.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",DD5 Podhigai
-https://jio.tamilultratv.com/app/ts_live_726.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",Vasanth TV
-https://jio.tamilultratv.com/app/ts_live_727.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="RajTv.in" group-title="JIO Ultra - Entertainment @ SASI",Raj TV
-https://jio.tamilultratv.com/app/ts_live_707.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",Makkal TV
-https://jio.tamilultratv.com/app/ts_live_708.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="AdithyaTV.in" group-title="JIO Ultra - Entertainment @ SASI",Adithya TV
-https://jio.tamilultratv.com/app/ts_live_709.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="KairaliTv.in" group-title="JIO Ultra - Entertainment @ SASI",Kairali TV
-https://jio.tamilultratv.com/app/ts_live_710.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",Captain tv
-https://jio.tamilultratv.com/app/ts_live_711.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="PolimerTv.in" group-title="JIO Ultra - Entertainment @ SASI",Polimer TV
-https://jio.tamilultratv.com/app/ts_live_705.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",Puthu Yugam
-https://jio.tamilultratv.com/app/ts_live_824.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",Jaya TV HD
-https://jio.tamilultratv.com/app/ts_live_419.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",Vendhar TV
-https://jio.tamilultratv.com/app/ts_live_857.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",Jaya TV HD
-https://jio.tamilultratv.com/app/ts_live_419.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",Colors Tamil HD
-https://jio.tamilultratv.com/app/ts_live_429.m3u8|Referer=https://jio.tamilultratv.com/
-#EXTINF:0 tvg-id="ext" group-title="JIO Ultra - Entertainment @ SASI",Vijay HD
-https://tamilultra.in/master.m3u8?c=STAR_VIJAY&server=1.m3u8|Referer=https://tamilultra.in/
-#EXTINF:0 tvg-id="SunTvHD.in" group-title="JIO Ultra - Entertainment @ SASI",Sun TV HD
-https://jio.tamilultratv.com/app/ts_live_896.m3u8|Referer=https://jio.tamilultratv.com/
-
 
 --Jio 2--
 #EXTINF:0 tvg-id="Travelxp.pl" group-title="JIO 2 - Lifestyle @ SASI",Travelxp HD
@@ -2023,14 +1921,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hZ9bIFTEBz6PDaRj0gi5EA","k":"XrN2KxpGMaC5jiXiPO8Bkw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqZDG.png",Adithya CH214
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vqypRh98oNWLpSn-0ue2EA","k":"2gpwFI4SbrQMzgJmV1OJbQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="SunMusic" tvg-name="Sun Music HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqLRn.png",Sun Music HD CH212
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2060,9 +1958,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 #EXTINF:-1 tvg-id="ZeeTamilHD" tvg-name="Zee Tamil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NB3Ou.png",Zee Tamil HD CH223
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"5GNU-znCjllWvJRqwqBQEA","k":"URkFvxkUdLQStOwRdRWnnA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ColorsTamilHD" tvg-name="Colors Tamil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NBdJ9.png",Colors Tamil HD CH222
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+
 #EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",VAANAVIL TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-
 
 
 
