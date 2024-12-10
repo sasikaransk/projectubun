@@ -1955,7 +1955,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rzVgin1LE9EVjC721sGgEA","k":"0ByBBQ36swnGvn5g0Dwtgg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="StarVijay" tvg-name="Star Vijay HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nqyf2.png",Star Vijay HD CH221
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?ck=eyJhZjM1NjA4YTdkNGIxM2QxMTU4YzJlZjZkNmMxYTAxMCI6ImQwMWM4MTA1MGRmYWIzMDljNmJlN2U2MGQwM2MyZDgyIn0%3D
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
