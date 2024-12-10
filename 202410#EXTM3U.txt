@@ -1842,9 +1842,10 @@ https://tamilultra.in/master.m3u8?c=VIJAY_TAKKAR&server=1|Referer=https://tamilu
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Z1IBWs8IRXKgjf4heW-LRQ","k":"_4I92-ViXDXT6T8O1FIBFQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OJFVfxyxTe23VFv1JJnXSA","k":"-2YvdC5fXgxhp8HGbSsBmg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/14020/200x200_SunTVHD_14020_8ce81e5d-4b5b-49d9-9a12-dde5dd739bc9.png",SUN TV
-https://livestream2.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd
+https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_index.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1911,7 +1912,7 @@ https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"taLG0TuXSN6c7rwKityK8w","k":"6Ab-wb8cioRCFhGMlLrQIA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="SUNNXT ",Sun Music HD
-https://livestream2.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
+https://dub.sh/ssssssiiio
 
 -----Astro--
 #KODIPROP:inputstreamaddon=inputstream.adaptive
