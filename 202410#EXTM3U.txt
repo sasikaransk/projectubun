@@ -1920,21 +1920,21 @@ https://dub.sh/ssssssiiio
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gwdv8vaNF2S1WcQyq0nKEA","k":"699Wuko1YsyCBTopUpdUMg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="SunTV" tvg-name="SUN TV HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqsHX.png",SUN TV HD CH211
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default.mpd?ck=eyI4MzA3NmZmMmY2OGQxNzY0YjU1OWM0MzJhYjQ5Y2ExMCI6ImViZGY1NmJhNGEzNTYyY2M4MjA1M2EyOTUyOTc1NDMyIn0%3D
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hZ9bIFTEBz6PDaRj0gi5EA","k":"XrN2KxpGMaC5jiXiPO8Bkw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqZDG.png",Adithya CH214
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd?ck=eyI4NTlmNWIyMDU0YzQwNzNlOGYwZGE0NjNkMjA4YjkxMCI6IjVlYjM3NjJiMWE0NjMxYTBiOThlMjVlMjNjZWYwMTkzIn0%3D
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vqypRh98oNWLpSn-0ue2EA","k":"2gpwFI4SbrQMzgJmV1OJbQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="SunMusic" tvg-name="Sun Music HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqLRn.png",Sun Music HD CH212
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd?ck=eyJiZWFjYTk0NjFmN2NhMGQ1OGJhNTI5ZmVkMmU3YjYxMCI6ImRhMGE3MDE0OGUxMjZlYjQwY2NlMDI2NjU3NTM4OTZkIn0%3D
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1950,10 +1950,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nq4KN.png",Astro Vaanavil HD CH201
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rzVgin1LE9EVjC721sGgEA","k":"0ByBBQ36swnGvn5g0Dwtgg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rzVgin1LE9EVjC721sGgEA","k":"0ByBBQ36swnGvn5g0Dwtgg"}],"type":"tempor"}
 #EXTINF:-1 tvg-id="StarVijay" tvg-name="Star Vijay HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nqyf2.png",Star Vijay HD CH221
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?ck=eyJhZjM1NjA4YTdkNGIxM2QxMTU4YzJlZjZkNmMxYTAxMCI6ImQwMWM4MTA1MGRmYWIzMDljNmJlN2U2MGQwM2MyZDgyIn0%3D
 
@@ -1962,14 +1963,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?ck=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DU4-fawtWLk7-BmnL-jVEA","k":"Znoz9NW7NYfy1SCYhoOerA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ZeeTamilHD" tvg-name="Zee Tamil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NB3Ou.png",Zee Tamil HD CH223
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd?ck=eyIwZDRlM2U3ZGFjMmQ1OGI5M2JmODE5YTcyZmU4ZDUxMCI6IjY2N2EzM2Y0ZDViYjM1ODdmMmQ1MjA5ODg2ODM5ZWFjIn0%3D
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"5GNU-znCjllWvJRqwqBQEA","k":"URkFvxkUdLQStOwRdRWnnA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ColorsTamilHD" tvg-name="Colors Tamil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NBdJ9.png",Colors Tamil HD CH222
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd?ck=eyJlNDYzNTRmYjM5YzI4ZTU5NTZiYzk0NmFjMmEwNTAxMCI6IjUxMTkwNWJmMTkxNDc0YjQxMmI0ZWMxMTc1MTVhNzljIn0%3D
 
 #EXTINF:0 tvg-id="ext" group-title="TAMIL @ SASI",VAANAVIL TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
