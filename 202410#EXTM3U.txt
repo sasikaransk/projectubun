@@ -1861,7 +1861,7 @@ https://neeplay.xyz/snxt/livestream/195491/manifest.mpd|Referer=https://neeplay.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Bdo4pG-3QDCI9BQ05E3pgA","k":"SIBGE5oeHWUyPP5LsbMLew"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26567/200x200_ChuttiTV_26567_9e566862-4ddb-4fea-90b6-1710aa5116fe.png",Chutti Tv
-chutti https://neeplay.xyz/snxt/livestream/194390/manifest.mpd?Referer=https://neeplay.xyz
+chutti https://neeplay.xyz/snxt/livestream/194390/manifest.mpd|Referer=https://neeplay.xyz
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1869,7 +1869,7 @@ chutti https://neeplay.xyz/snxt/livestream/194390/manifest.mpd?Referer=https://n
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1nShp_Q2QaKb2IZ9h8clmg","k":"gS9V3N5oYZ_GrZWVGyQdLA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/9023/200x200_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png",Adithya
-https://neeplay.xyz/snxt/livestream/194407/manifest.mpd?Referer=https://neeplay.xyz
+https://neeplay.xyz/snxt/livestream/194407/manifest.mpd|Referer=https://neeplay.xyz
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1877,7 +1877,7 @@ https://neeplay.xyz/snxt/livestream/194407/manifest.mpd?Referer=https://neeplay.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gVRt8_QcSm28mk78fy-2Jg","k":"OShQX0BUzx-pNSdv2-QJkg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26569/200x200_SunLife_26569_4b759496-79e6-4914-8c0e-976497182ac3.png",Sun Life
-https://neeplay.xyz/snxt/livestream/194391/manifest.mpd?Referer=https://neeplay.xyz
+https://neeplay.xyz/snxt/livestream/194391/manifest.mpd|Referer=https://neeplay.xyz
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1885,7 +1885,7 @@ https://neeplay.xyz/snxt/livestream/194391/manifest.mpd?Referer=https://neeplay.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NR5Uc5G7RcusZtLLnsDClA","k":"O9ZGdT9JA-7jtARkbHgZ0w"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26566/200x200_KTVHD_26566_adb8dbe5-9de3-4284-981d-fcbaa9638f2a.png",KTV HD
-https://neeplay.xyz/snxt/livestream/194405/manifest.mpd?Referer=https://neeplay.xyz
+https://neeplay.xyz/snxt/livestream/194405/manifest.mpd|Referer=https://neeplay.xyz
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1912,7 +1912,7 @@ https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"taLG0TuXSN6c7rwKityK8w","k":"6Ab-wb8cioRCFhGMlLrQIA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="SUNNXT ",Sun Music HD
-https://neeplay.xyz/snxt/livestream/194406/manifest.mpd?Referer=https://neeplay.xyz
+https://neeplay.xyz/snxt/livestream/194406/manifest.mpd|Referer=https://neeplay.xyz
 
 -----Astro--
 #KODIPROP:inputstreamaddon=inputstream.adaptive
