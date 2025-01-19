@@ -1853,7 +1853,7 @@ https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_inde
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OJFVfxyxTe23VFv1JJnXSA","k":"-2YvdC5fXgxhp8HGbSsBmg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/155535/200x200_SunTVHDDolbyVision_155535_2312f9df-92b3-48dc-bd0d-761bd9c68a9c.jpg",SUN TV HD Dolby Vision
-https://neeplay.xyz/snxt/livestream/195491/manifest.mpd?Referer=https://neeplay.xyz
+https://neeplay.xyz/snxt/livestream/195491/manifest.mpd|Referer=https://neeplay.xyz
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
