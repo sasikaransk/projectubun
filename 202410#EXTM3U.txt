@@ -34,8 +34,12 @@ https://live.peotv.com/bpk-tv/011/output/index.m3u8
 https://live.peotv.com/bpk-tv/108/output/index.m3u8 
 #EXTINF:-1 group-title="Extra Tamil",Aus Tamil
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:-1 group-title="Extra Tamil",Star Vijay HD
+https://tamilultratv.co.in/master.m3u8?c=STAR_VIJAY&server=3|Referer=https://tamilultratv.co.in
 #EXTINF:-1 group-title="Extra Tamil",Zee Tamil HD
-http://217.20.112.199:8888/ZeeTamil/index.m3u8
+https://tamilultratv.co.in/master.m3u8?c=ZEE_TAMIL_HD&server=3|Referer=https://tamilultratv.co.in
+#EXTINF:-1 group-title="Extra Tamil",Aathavan HD
+https://jr7yv2wqda4v-hls-live.5centscdn.com/athavan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 ---4k----
 #EXTINF:0 tvg-id="ext" group-title="TAMIL | TV",COLORS TAMIL USA
@@ -309,1518 +313,1518 @@ https://jio.tamilbulbtv.live/live.php?id=896|Referer=https://jio.tamilbulbtv.liv
 
 --Jio 1---
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Cricket English HD
-https://colorsscreen.com/live.php?id=1918|Referer=https://mhdtv.co.in
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1918|Referer=https://mhdtv.co.in
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Sony Ten 5 HD
-https://colorsscreen.com/live.php?id=155|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=155|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="TenHD.in" group-title="JIO TV - Sports@ SASI",Sony Ten 1 HD
-https://colorsscreen.com/live.php?id=162|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=162|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="TenAction.in" group-title="JIO TV - Sports@ SASI",Sony Ten 2 HD
-https://colorsscreen.com/live.php?id=891|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=891|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="TenCricket.in" group-title="JIO TV - Sports@ SASI",Sony Ten 3 HD
-https://colorsscreen.com/live.php?id=892|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=892|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Sports HD
-https://colorsscreen.com/live.php?id=889|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=889|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="esp-hd" group-title="JIO TV - Sports@ SASI",Eurosport HD
-https://colorsscreen.com/live.php?id=875|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=875|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football HD
-https://colorsscreen.com/live.php?id=1156|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1156|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Cricket 1 HD
-https://colorsscreen.com/live.php?id=1160|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1160|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football 1 HD
-https://colorsscreen.com/live.php?id=1165|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1165|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football 2 HD
-https://colorsscreen.com/live.php?id=1167|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1167|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football 3 HD
-https://colorsscreen.com/live.php?id=1168|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1168|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football 4 HD
-https://colorsscreen.com/live.php?id=1169|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1169|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="TenSports.in" group-title="JIO TV - Sports@ SASI",Sony Ten 1
-https://colorsscreen.com/live.php?id=514|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=514|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Ten 2
-https://colorsscreen.com/live.php?id=523|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=523|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="TenCricket.in" group-title="JIO TV - Sports@ SASI",Sony Ten 3
-https://colorsscreen.com/live.php?id=524|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=524|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Sony Ten 5
-https://colorsscreen.com/live.php?id=525|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=525|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Cricket 4 HD
-https://colorsscreen.com/live.php?id=1272|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1272|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="DDSports.in" group-title="JIO TV - Sports@ SASI",DD Sports
 https://livectv.phando.com/8014/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Cricket 2 HD
-https://colorsscreen.com/live.php?id=1161|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1161|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Cricket 3 HD
-https://colorsscreen.com/live.php?id=1166|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1166|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",MI TV
-https://colorsscreen.com/live.php?id=1529|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1529|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",ESG TV
-https://colorsscreen.com/live.php?id=1675|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1675|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Sony Ten 4 HD Tamil
-https://colorsscreen.com/live.php?id=1772|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1772|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Sony Ten 4 HD Telugu
-https://colorsscreen.com/live.php?id=1773|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1773|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Sony Ten 4 Tamil
-https://colorsscreen.com/live.php?id=1774|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1774|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football 5 HD
-https://colorsscreen.com/live.php?id=1813|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1813|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football 6 HD
-https://colorsscreen.com/live.php?id=1814|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1814|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football 7 HD
-https://colorsscreen.com/live.php?id=1823|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1823|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football 8 HD
-https://colorsscreen.com/live.php?id=1824|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1824|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football Hindi HD
-https://colorsscreen.com/live.php?id=1234|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1234|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football Malayalam HD
-https://colorsscreen.com/live.php?id=1236|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1236|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Football Bengali HD
-https://colorsscreen.com/live.php?id=1239|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1239|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="esp" group-title="JIO TV - Sports@ SASI",Eurosport
-https://colorsscreen.com/live.php?id=1294|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1294|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",1Sports
-https://colorsscreen.com/live.php?id=1425|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1425|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Sony Ten 4 Telugu
-https://colorsscreen.com/live.php?id=1775|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1775|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Sports 1 HD
-https://colorsscreen.com/live.php?id=1889|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1889|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Sports 2 HD
-https://colorsscreen.com/live.php?id=1890|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1890|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Sports 3 HD
-https://colorsscreen.com/live.php?id=1970|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1970|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Sports 4 HD
-https://colorsscreen.com/live.php?id=1971|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1971|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Sports18 1 HD
-https://colorsscreen.com/live.php?id=1984|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1984|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Sports18 1
-https://colorsscreen.com/live.php?id=1985|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1985|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Sports18 Khel
-https://colorsscreen.com/live.php?id=1998|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1998|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Q GameX
-https://colorsscreen.com/live.php?id=2183|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2183|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="Colors.in" group-title="JIO TV - Entertainment @ SASI",Colors HD
-https://colorsscreen.com/live.php?id=144|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=144|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="set" group-title="JIO TV - Entertainment @ SASI",SET HD
-https://colorsscreen.com/live.php?id=291|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=291|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeTV.uk" group-title="JIO TV - Entertainment @ SASI",Zee TV HD
-https://colorsscreen.com/live.php?id=167|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=167|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SONYSAB.uk" group-title="JIO TV - Entertainment @ SASI",Sony SAB
-https://colorsscreen.com/live.php?id=154|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=154|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",And TV HD
-https://colorsscreen.com/live.php?id=472|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=472|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Rishtey.uk" group-title="JIO TV - Entertainment @ SASI",Rishtey
-https://colorsscreen.com/live.php?id=279|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=279|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Zee Anmol
-https://colorsscreen.com/live.php?id=473|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=473|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SonyPal.in" group-title="JIO TV - Entertainment @ SASI",Sony Pal
-https://colorsscreen.com/live.php?id=474|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=474|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Sony SAB HD
-https://colorsscreen.com/live.php?id=471|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=471|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeMarathi.in" group-title="JIO TV - Entertainment @ SASI",Zee Marathi
-https://colorsscreen.com/live.php?id=445|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=445|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Colors Marathi HD
-https://colorsscreen.com/live.php?id=755|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=755|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Colors Kannada HD
-https://colorsscreen.com/live.php?id=757|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=757|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeKannada.in" group-title="JIO TV - Entertainment @ SASI",Zee Kannada
-https://colorsscreen.com/live.php?id=689|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=689|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ComedyCentral.uk" group-title="JIO TV - Entertainment @ SASI",Comedy Central HD
-https://colorsscreen.com/live.php?id=1157|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1157|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Colors Gujarati
-https://colorsscreen.com/live.php?id=196|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=196|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeBangla.in" group-title="JIO TV - Entertainment @ SASI",Zee Bangla
-https://colorsscreen.com/live.php?id=625|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=625|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Colors Bengali HD
-https://colorsscreen.com/live.php?id=756|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=756|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="EPIC.in" group-title="JIO TV - Entertainment @ SASI",Epic
-https://colorsscreen.com/live.php?id=481|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=481|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ColorsInfinity.in" group-title="JIO TV - Entertainment @ SASI",Colors Infinity HD
-https://colorsscreen.com/live.php?id=1158|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1158|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Zee Yuva
-https://colorsscreen.com/live.php?id=414|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=414|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="PTCPUNJABI.uk" group-title="JIO TV - Entertainment @ SASI",PTC Punjabi
-https://colorsscreen.com/live.php?id=1171|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1171|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="id-extra" group-title="JIO TV - Entertainment @ SASI",Investigation Discovery
-https://colorsscreen.com/live.php?id=527|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=527|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="DDIndia.in" group-title="JIO TV - Entertainment @ SASI",DD India
-https://colorsscreen.com/live.php?id=528|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=528|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="karusel" group-title="JIO TV - Entertainment @ SASI",DD National
-https://colorsscreen.com/live.php?id=202|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=202|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Dabangg
-https://colorsscreen.com/live.php?id=532|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=532|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Colors Tamil HD
-https://colorsscreen.com/live.php?id=429|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=429|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SunTvHD.in" group-title="JIO TV - Entertainment @ SASI",Sun TV HD
-https://colorsscreen.com/live.php?id=896|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=896|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",DD Madhya Pradesh
-https://colorsscreen.com/live.php?id=536|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=536|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",DD Rajasthan (Jaipur)
-https://colorsscreen.com/live.php?id=538|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=538|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Enterr 10
-https://colorsscreen.com/live.php?id=485|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=485|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",ETV Telugu
-https://colorsscreen.com/live.php?id=629|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=629|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Raj Pariwar
-https://colorsscreen.com/live.php?id=533|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=533|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",DD Bihar
-https://colorsscreen.com/live.php?id=539|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=539|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Jaya TV HD
-https://colorsscreen.com/live.php?id=419|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=419|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Mazavali Manorama HD
-https://colorsscreen.com/live.php?id=844|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=844|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",MK TV
-https://colorsscreen.com/live.php?id=847|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=847|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ColorsSuper.in" group-title="JIO TV - Entertainment @ SASI",Colors Super
-https://colorsscreen.com/live.php?id=785|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=785|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Vendhar TV
-https://colorsscreen.com/live.php?id=857|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=857|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="GeminiTvHD.in" group-title="JIO TV - Entertainment @ SASI",Gemini TV HD
-https://colorsscreen.com/live.php?id=897|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=897|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SuryaTv.in" group-title="JIO TV - Entertainment @ SASI",Surya HD
-https://colorsscreen.com/live.php?id=900|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=900|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Udaya.in" group-title="JIO TV - Entertainment @ SASI",Udaya HD
-https://colorsscreen.com/live.php?id=901|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=901|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Arre HD
-https://colorsscreen.com/live.php?id=963|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=963|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Zee Sarthak
-https://colorsscreen.com/live.php?id=722|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=722|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Flower TV
-https://colorsscreen.com/live.php?id=634|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=634|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="MazhavilManorama.in" group-title="JIO TV - Entertainment @ SASI",Mazhavil Manorama
-https://colorsscreen.com/live.php?id=648|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=648|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Puthu Yugam
-https://colorsscreen.com/live.php?id=824|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=824|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SaamTV.in" group-title="JIO TV - Entertainment @ SASI",Saam Tv
-https://colorsscreen.com/live.php?id=691|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=691|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Colors Oriya
-https://colorsscreen.com/live.php?id=198|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=198|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Jonack
-https://colorsscreen.com/live.php?id=765|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=765|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Rang
-https://colorsscreen.com/live.php?id=623|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=623|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Rengoni
-https://colorsscreen.com/live.php?id=635|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=635|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ETVPlus.ee" group-title="JIO TV - Entertainment @ SASI",ETV Plus
-https://colorsscreen.com/live.php?id=692|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=692|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Sony Marathi SD
-https://colorsscreen.com/live.php?id=1146|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1146|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",DD Sahayadri
-https://colorsscreen.com/live.php?id=695|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=695|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Sony aath
-https://colorsscreen.com/live.php?id=697|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=697|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Aakash Aath
-https://colorsscreen.com/live.php?id=698|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=698|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Dangal
-https://colorsscreen.com/live.php?id=701|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=701|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",DD Oriya
-https://colorsscreen.com/live.php?id=702|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=702|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="PolimerTv.in" group-title="JIO TV - Entertainment @ SASI",Polimer TV
-https://colorsscreen.com/live.php?id=705|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=705|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Gemini Comedy
-https://colorsscreen.com/live.php?id=729|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=729|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="RajTv.in" group-title="JIO TV - Entertainment @ SASI",Raj TV
-https://colorsscreen.com/live.php?id=707|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=707|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Makkal TV
-https://colorsscreen.com/live.php?id=708|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=708|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="AdithyaTV.in" group-title="JIO TV - Entertainment @ SASI",Adithya TV
-https://colorsscreen.com/live.php?id=709|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=709|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="KairaliTv.in" group-title="JIO TV - Entertainment @ SASI",Kairali TV
-https://colorsscreen.com/live.php?id=710|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=710|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Captain tv
-https://colorsscreen.com/live.php?id=711|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=711|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",DD Saptagiri
-https://colorsscreen.com/live.php?id=706|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=706|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",DD9 chandana (kannada)
-https://colorsscreen.com/live.php?id=713|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=713|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",DD Girnar
-https://colorsscreen.com/live.php?id=714|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=714|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",DD Punjabi
-https://colorsscreen.com/live.php?id=715|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=715|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Nepal one
-https://colorsscreen.com/live.php?id=719|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=719|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="AmritaTv.in" group-title="JIO TV - Entertainment @ SASI",Amrita TV
-https://colorsscreen.com/live.php?id=723|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=723|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",DD5 Podhigai
-https://colorsscreen.com/live.php?id=726|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=726|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Vasanth TV
-https://colorsscreen.com/live.php?id=727|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=727|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Zee Salaam
-https://colorsscreen.com/live.php?id=728|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=728|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Kasturi
-https://colorsscreen.com/live.php?id=730|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=730|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Kairali WE TV
-https://colorsscreen.com/live.php?id=731|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=731|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="UdayaComedy.in" group-title="JIO TV - Entertainment @ SASI",Udaya Comedy
-https://colorsscreen.com/live.php?id=733|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=733|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Vissa TV
-https://colorsscreen.com/live.php?id=734|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=734|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Maiboli
-https://colorsscreen.com/live.php?id=736|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=736|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Dillagi TV
-https://colorsscreen.com/live.php?id=534|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=534|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="DhamaalTV.in" group-title="JIO TV - Entertainment @ SASI",Dhamaal TV
-https://colorsscreen.com/live.php?id=535|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=535|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Jio Exclusive HD
-https://colorsscreen.com/live.php?id=866|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=866|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Hi Dost!
-https://colorsscreen.com/live.php?id=1232|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1232|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Lionsgate Play
-https://colorsscreen.com/live.php?id=2327|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2327|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="EtvMarathi.in" group-title="JIO TV - Entertainment @ SASI",Colors Marathi SD
-https://colorsscreen.com/live.php?id=1326|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1326|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Colors.uk" group-title="JIO TV - Entertainment @ SASI",Colors SD
-https://colorsscreen.com/live.php?id=1368|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1368|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Colors Bangla SD
-https://colorsscreen.com/live.php?id=1369|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1369|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="EtvKannada.in" group-title="JIO TV - Entertainment @ SASI",Colors Kannada SD
-https://colorsscreen.com/live.php?id=1370|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1370|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Pasand
-https://colorsscreen.com/live.php?id=1798|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1798|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Studio Yuva Alpha
-https://colorsscreen.com/live.php?id=1799|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1799|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Green Chillies
-https://colorsscreen.com/live.php?id=1834|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1834|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="KalaignarTv.in" group-title="JIO TV - Entertainment @ SASI",Kalaignar TV
-https://colorsscreen.com/live.php?id=1209|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1209|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Manoranjan Grand
-https://colorsscreen.com/live.php?id=1279|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1279|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Manjari TV
-https://colorsscreen.com/live.php?id=1299|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1299|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ColorsInfinity.in" group-title="JIO TV - Entertainment @ SASI",Colors Infinity SD
-https://colorsscreen.com/live.php?id=1325|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1325|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ComedyCentral.uk" group-title="JIO TV - Entertainment @ SASI",Comedy Central SD
-https://colorsscreen.com/live.php?id=1327|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1327|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="zee" group-title="JIO TV - Entertainment @ SASI",Zee TV
-https://colorsscreen.com/live.php?id=1351|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1351|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeMarathi.in" group-title="JIO TV - Entertainment @ SASI",Zee Marathi HD
-https://colorsscreen.com/live.php?id=1360|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1360|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Colors Tamil
-https://colorsscreen.com/live.php?id=1371|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1371|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Sony Wah
-https://colorsscreen.com/live.php?id=1393|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1393|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="set" group-title="JIO TV - Entertainment @ SASI",Set SD
-https://colorsscreen.com/live.php?id=1396|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1396|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="JIO TV - Entertainment @ SASI",HITS HD
-https://colorsscreen.com/live.php?id=1603|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1603|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Siri Kannada
-https://colorsscreen.com/live.php?id=1634|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1634|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Surya Comedy
-https://colorsscreen.com/live.php?id=1662|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1662|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Sun Bangla
-https://colorsscreen.com/live.php?id=1669|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1669|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Punjab Plus
-https://colorsscreen.com/live.php?id=1868|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1868|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="E.uk" group-title="JIO TV - Entertainment @ SASI",E!
-https://colorsscreen.com/live.php?id=1881|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1881|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",MH1 Dil Se
-https://colorsscreen.com/live.php?id=1925|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1925|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Sidharth TV
-https://colorsscreen.com/live.php?id=1956|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1956|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Shemaroo TV
-https://colorsscreen.com/live.php?id=1961|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1961|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ETV.ee" group-title="JIO TV - Entertainment @ SASI",ETV HD
-https://colorsscreen.com/live.php?id=1973|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1973|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeBangla.in" group-title="JIO TV - Entertainment @ SASI",Zee Bangla HD
-https://colorsscreen.com/live.php?id=1977|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1977|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Ekamra Nilach akra
-https://colorsscreen.com/live.php?id=2010|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2010|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",And TV
-https://colorsscreen.com/live.php?id=2024|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2024|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Bollywood Hungama
-https://colorsscreen.com/live.php?id=2040|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2040|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",The Q Comedistaan
-https://colorsscreen.com/live.php?id=2066|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2066|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",The Q Marathi
-https://colorsscreen.com/live.php?id=2071|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2071|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Gangaur
-https://colorsscreen.com/live.php?id=2077|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2077|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Shemaroo Umang
-https://colorsscreen.com/live.php?id=2078|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2078|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Jio Prime HD
-https://colorsscreen.com/live.php?id=2149|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2149|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Atrangii TV
-https://colorsscreen.com/live.php?id=2191|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2191|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Jatra Ekamra
-https://colorsscreen.com/live.php?id=2227|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2227|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Nakshatra Digital TV
-https://colorsscreen.com/live.php?id=2253|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2253|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Animax.de" group-title="JIO TV - Entertainment @ SASI",Animax
-https://colorsscreen.com/live.php?id=2258|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2258|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",ScoopWhoop
-https://colorsscreen.com/live.php?id=2324|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2324|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Friends TV
-https://colorsscreen.com/live.php?id=2354|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2354|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Entertainment @ SASI",Sun Marathi
-https://colorsscreen.com/live.php?id=2424|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2424|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="SonyMAX.in" group-title="JIO TV - Movies @ SASI",Sony Max HD
-https://colorsscreen.com/live.php?id=476|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=476|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeCinema.in" group-title="JIO TV - Movies @ SASI",Zee Cinema HD
-https://colorsscreen.com/live.php?id=165|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=165|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Colors Cineplex
-https://colorsscreen.com/live.php?id=482|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=482|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="JIO TV - Movies @ SASI",Sony Pix HD
-https://colorsscreen.com/live.php?id=762|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=762|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SonyMax.uk" group-title="JIO TV - Movies @ SASI",Sony Max SD
-https://colorsscreen.com/live.php?id=289|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=289|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Sony MAX2
-https://colorsscreen.com/live.php?id=483|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=483|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",And Pictures HD
-https://colorsscreen.com/live.php?id=185|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=185|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeCinema.uk" group-title="JIO TV - Movies @ SASI",Zee Cinema
-https://colorsscreen.com/live.php?id=484|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=484|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="B4UMovies.uk" group-title="JIO TV - Movies @ SASI",B4U Movies
-https://colorsscreen.com/live.php?id=182|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=182|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Jio Cinema
-https://colorsscreen.com/live.php?id=1074|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1074|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeBollywood.us" group-title="JIO TV - Movies @ SASI",Zee Bollywood
-https://colorsscreen.com/live.php?id=487|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=487|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Bhojpuri Cinema
-https://colorsscreen.com/live.php?id=486|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=486|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="KtvHD.in" group-title="JIO TV - Movies @ SASI",KTV HD
-https://colorsscreen.com/live.php?id=894|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=894|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeAction.in" group-title="JIO TV - Movies @ SASI",Zee Action
-https://colorsscreen.com/live.php?id=488|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=488|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="UdayaMovies.in" group-title="JIO TV - Movies @ SASI",Udaya Movies
-https://colorsscreen.com/live.php?id=678|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=678|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Zee Cinemalu
-https://colorsscreen.com/live.php?id=413|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=413|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="GeminiMovies.in" group-title="JIO TV - Movies @ SASI",Gemini Movies HD
-https://colorsscreen.com/live.php?id=899|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=899|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Zee Anmol Cinema
-https://colorsscreen.com/live.php?id=415|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=415|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeTalkies.in" group-title="JIO TV - Movies @ SASI",Zee Talkies
-https://colorsscreen.com/live.php?id=153|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=153|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",J Movies
-https://colorsscreen.com/live.php?id=417|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=417|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Zee Bangla Cinema
-https://colorsscreen.com/live.php?id=685|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=685|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",ETV Cinema
-https://colorsscreen.com/live.php?id=252|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=252|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Gemini Life
-https://colorsscreen.com/live.php?id=684|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=684|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Sun Life
-https://colorsscreen.com/live.php?id=682|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=682|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Fakt Marathi
-https://colorsscreen.com/live.php?id=738|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=738|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Pitaara.uk" group-title="JIO TV - Movies @ SASI",Pitaara
-https://colorsscreen.com/live.php?id=946|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=946|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Maha Movies
-https://colorsscreen.com/live.php?id=809|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=809|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="JIO TV - Movies @ SASI",Raj Digital Plus
-https://colorsscreen.com/live.php?id=683|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=683|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Oscar Movies
-https://colorsscreen.com/live.php?id=883|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=883|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Amaar Cinema
-https://colorsscreen.com/live.php?id=1101|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1101|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Colors Gujarati Cinema
-https://colorsscreen.com/live.php?id=1324|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1324|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Bflix Movies
-https://colorsscreen.com/live.php?id=1266|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1266|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Manoranjan TV
-https://colorsscreen.com/live.php?id=1280|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1280|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Manoranjan Movies
-https://colorsscreen.com/live.php?id=1281|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1281|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="KhushbooTv.in" group-title="JIO TV - Movies @ SASI",Khushboo TV
-https://colorsscreen.com/live.php?id=1282|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1282|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",B4U Kadak
-https://colorsscreen.com/live.php?id=1295|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1295|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",B4U Bhojpuri
-https://colorsscreen.com/live.php?id=1296|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1296|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeTalkies.in" group-title="JIO TV - Movies @ SASI",Zee Talkies HD
-https://colorsscreen.com/live.php?id=1358|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1358|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Colors Cineplex Superhit
-https://colorsscreen.com/live.php?id=1450|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1450|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Shemaroo MarathiBana
-https://colorsscreen.com/live.php?id=1452|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1452|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Colors Cineplex HD
-https://colorsscreen.com/live.php?id=1477|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1477|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="JIO TV - Movies @ SASI",Sony Pix SD
-https://colorsscreen.com/live.php?id=1530|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1530|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Colors Kannada Cinema
-https://colorsscreen.com/live.php?id=1632|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1632|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Colors Bangla Cinema
-https://colorsscreen.com/live.php?id=1657|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1657|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="KiranTv.in" group-title="JIO TV - Movies @ SASI",Surya Movies
-https://colorsscreen.com/live.php?id=1754|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1754|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Colors Cineplex Bollywood
-https://colorsscreen.com/live.php?id=1763|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1763|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Pictures.in" group-title="JIO TV - Movies @ SASI",And Pictures
-https://colorsscreen.com/live.php?id=1839|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1839|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Sidharth Gold
-https://colorsscreen.com/live.php?id=1957|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1957|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Ekamra Cinema
-https://colorsscreen.com/live.php?id=2016|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2016|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Aaryaa Cinema
-https://colorsscreen.com/live.php?id=2189|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2189|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Movies @ SASI",Zee Thirai
-https://colorsscreen.com/live.php?id=2256|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2256|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="TimesNow.uk" group-title="JIO TV - News @ SASI",Times NOW
-https://colorsscreen.com/live.php?id=383|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=383|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Times Now Navbharat
-https://colorsscreen.com/live.php?id=1906|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1906|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",ABP News India
-https://colorsscreen.com/live.php?id=177|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=177|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="CNN-IBN.in" group-title="JIO TV - News @ SASI",CNN NEWS 18
-https://colorsscreen.com/live.php?id=492|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=492|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Republic TV
-https://colorsscreen.com/live.php?id=858|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=858|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",ABP Majha
-https://colorsscreen.com/live.php?id=612|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=612|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",TV9 Karnataka
-https://colorsscreen.com/live.php?id=619|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=619|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Polimer News
-https://colorsscreen.com/live.php?id=636|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=636|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",TV9 Telugu News
-https://colorsscreen.com/live.php?id=618|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=618|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",ABP Ananda
-https://colorsscreen.com/live.php?id=672|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=672|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="News18India.uk" group-title="JIO TV - News @ SASI",News 18 India
-https://colorsscreen.com/live.php?id=231|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=231|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="zee" group-title="JIO TV - News @ SASI",India TV
-https://colorsscreen.com/live.php?id=235|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=235|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="NDTV.uk" group-title="JIO TV - News @ SASI",NDTV India
-https://colorsscreen.com/live.php?id=258|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=258|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ZeeNews.uk" group-title="JIO TV - News @ SASI",Zee News
-https://colorsscreen.com/live.php?id=504|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=504|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Times Now World
-https://colorsscreen.com/live.php?id=876|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=876|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="NDTV.uk" group-title="JIO TV - News @ SASI",NDTV 24x7
-https://colorsscreen.com/live.php?id=255|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=255|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Public TV
-https://colorsscreen.com/live.php?id=778|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=778|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",24 Ghanta TV
-https://colorsscreen.com/live.php?id=464|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=464|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Sakshi tv
-https://colorsscreen.com/live.php?id=632|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=632|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SuvarnaNews24x7.in" group-title="JIO TV - News @ SASI",Suvarna News
-https://colorsscreen.com/live.php?id=626|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=626|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ntv" group-title="JIO TV - News @ SASI",NTV
-https://colorsscreen.com/live.php?id=646|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=646|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Thanthi TV
-https://colorsscreen.com/live.php?id=830|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=830|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="news24" group-title="JIO TV - News @ SASI",News 24
-https://colorsscreen.com/live.php?id=501|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=501|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",TV9 Maharashtra
-https://colorsscreen.com/live.php?id=617|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=617|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Zee24Taas.in" group-title="JIO TV - News @ SASI",Zee 24 Taas
-https://colorsscreen.com/live.php?id=442|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=442|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Kairali News
-https://colorsscreen.com/live.php?id=725|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=725|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",ABN Andhra Jyothi
-https://colorsscreen.com/live.php?id=666|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=666|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News Nation
-https://colorsscreen.com/live.php?id=499|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=499|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Kanak News
-https://colorsscreen.com/live.php?id=718|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=718|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="IndiaNews.in" group-title="JIO TV - News @ SASI",India news
-https://colorsscreen.com/live.php?id=498|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=498|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Puthiya Thalimurai
-https://colorsscreen.com/live.php?id=677|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=677|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News18 BIHAR
-https://colorsscreen.com/live.php?id=693|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=693|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Dighvijay TV
-https://colorsscreen.com/live.php?id=923|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=923|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Zee Delhi NCR Haryana
-https://colorsscreen.com/live.php?id=724|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=724|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News18 Gujarati
-https://colorsscreen.com/live.php?id=620|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=620|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Good News Today
-https://colorsscreen.com/live.php?id=502|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=502|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="AsianetNews.in" group-title="JIO TV - News @ SASI",Asianet News
-https://colorsscreen.com/live.php?id=180|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=180|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News18 Kannada News
-https://colorsscreen.com/live.php?id=653|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=653|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News7 Tamil
-https://colorsscreen.com/live.php?id=673|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=673|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="DY365.in" group-title="JIO TV - News @ SASI",DY 365
-https://colorsscreen.com/live.php?id=633|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=633|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News18 Lokmat
-https://colorsscreen.com/live.php?id=232|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=232|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Pratidin Time
-https://colorsscreen.com/live.php?id=647|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=647|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Tv 9 Gujarat
-https://colorsscreen.com/live.php?id=616|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=616|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News18 RAJASTHAN
-https://colorsscreen.com/live.php?id=531|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=531|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News18 Bangla News
-https://colorsscreen.com/live.php?id=717|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=717|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SunNews.in" group-title="JIO TV - News @ SASI",Sun News
-https://colorsscreen.com/live.php?id=676|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=676|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News State UK UP
-https://colorsscreen.com/live.php?id=792|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=792|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News 18 Assam
-https://colorsscreen.com/live.php?id=627|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=627|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",ABP Asmita
-https://colorsscreen.com/live.php?id=641|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=641|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News18 MP
-https://colorsscreen.com/live.php?id=529|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=529|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Kashish News
-https://colorsscreen.com/live.php?id=770|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=770|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="V6News.in" group-title="JIO TV - News @ SASI",V6 News
-https://colorsscreen.com/live.php?id=769|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=769|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",ETV Andhra pradesh
-https://colorsscreen.com/live.php?id=614|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=614|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News 18 Tamilnadu
-https://colorsscreen.com/live.php?id=615|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=615|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Manorama News
-https://colorsscreen.com/live.php?id=662|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=662|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="MathrubhumiNews.in" group-title="JIO TV - News @ SASI",Mathrubhumi News
-https://colorsscreen.com/live.php?id=780|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=780|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",India Today
-https://colorsscreen.com/live.php?id=493|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=493|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="10-tv" group-title="JIO TV - News @ SASI",10 TV
-https://colorsscreen.com/live.php?id=832|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=832|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Zee News MP Chattisgarh
-https://colorsscreen.com/live.php?id=658|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=658|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",IBC24
-https://colorsscreen.com/live.php?id=503|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=503|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",VTV Gujarati
-https://colorsscreen.com/live.php?id=642|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=642|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",TV 5 News
-https://colorsscreen.com/live.php?id=668|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=668|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Assam Talks
-https://colorsscreen.com/live.php?id=675|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=675|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News Time TV
-https://colorsscreen.com/live.php?id=687|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=687|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Zee Bihar Jharkhand
-https://colorsscreen.com/live.php?id=661|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=661|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Prameya News 7
-https://colorsscreen.com/live.php?id=779|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=779|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",CVR News
-https://colorsscreen.com/live.php?id=784|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=784|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Zee Rajasthan
-https://colorsscreen.com/live.php?id=659|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=659|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News18 UP
-https://colorsscreen.com/live.php?id=530|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=530|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News18 Oriya
-https://colorsscreen.com/live.php?id=696|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=696|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",T News
-https://colorsscreen.com/live.php?id=667|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=667|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SandeshNewsDNN.in" group-title="JIO TV - News @ SASI",Sandesh News
-https://colorsscreen.com/live.php?id=782|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=782|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="DDNews.in" group-title="JIO TV - News @ SASI",DD News
-https://colorsscreen.com/live.php?id=203|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=203|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="JayaPlus.in" group-title="JIO TV - News @ SASI",Jaya Plus
-https://colorsscreen.com/live.php?id=418|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=418|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Malai Murasu
-https://colorsscreen.com/live.php?id=826|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=826|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Zee 24 Kalak
-https://colorsscreen.com/live.php?id=929|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=929|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="bbc-world" group-title="JIO TV - News @ SASI",BBC World News
-https://colorsscreen.com/live.php?id=142|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=142|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",ETV Telangana
-https://colorsscreen.com/live.php?id=630|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=630|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Kalinga TV
-https://colorsscreen.com/live.php?id=781|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=781|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Janam TV
-https://colorsscreen.com/live.php?id=810|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=810|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",India News UP
-https://colorsscreen.com/live.php?id=512|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=512|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News 18 Kerala
-https://colorsscreen.com/live.php?id=965|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=965|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Maha News
-https://colorsscreen.com/live.php?id=800|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=800|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",HM TV
-https://colorsscreen.com/live.php?id=665|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=665|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Gulistan News
-https://colorsscreen.com/live.php?id=807|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=807|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="JanTV.am" group-title="JIO TV - News @ SASI",Jan TV
-https://colorsscreen.com/live.php?id=768|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=768|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Raj News Kannada
-https://colorsscreen.com/live.php?id=651|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=651|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News18 JKLH
-https://colorsscreen.com/live.php?id=694|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=694|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",India News Haryana
-https://colorsscreen.com/live.php?id=516|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=516|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",India News Rajasthan
-https://colorsscreen.com/live.php?id=513|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=513|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="JIO TV - News @ SASI",GS TV
-https://colorsscreen.com/live.php?id=643|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=643|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="MBC1.net" group-title="JIO TV - News @ SASI",MBC
-https://colorsscreen.com/live.php?id=631|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=631|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Sahara Samay Bihar
-https://colorsscreen.com/live.php?id=509|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=509|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Zee Hindustan
-https://colorsscreen.com/live.php?id=652|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=652|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Hindi Khabar
-https://colorsscreen.com/live.php?id=808|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=808|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Zee Punjabi HP Haryana
-https://colorsscreen.com/live.php?id=654|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=654|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",First India News
-https://colorsscreen.com/live.php?id=927|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=927|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",SAHARA SAMAY MP
-https://colorsscreen.com/live.php?id=507|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=507|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="CaptainNews.in" group-title="JIO TV - News @ SASI",Captain News
-https://colorsscreen.com/live.php?id=645|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=645|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="IndiaNews.in" group-title="JIO TV - News @ SASI",I News
-https://colorsscreen.com/live.php?id=790|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=790|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="NewsX.in" group-title="JIO TV - News @ SASI",News X
-https://colorsscreen.com/live.php?id=495|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=495|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Mirror Now
-https://colorsscreen.com/live.php?id=491|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=491|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",India News MP
-https://colorsscreen.com/live.php?id=515|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=515|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Sathiyam TV
-https://colorsscreen.com/live.php?id=671|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=671|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Naxatra News
-https://colorsscreen.com/live.php?id=799|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=799|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Zee UP UK
-https://colorsscreen.com/live.php?id=572|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=572|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="cnn" group-title="JIO TV - News @ SASI",CNN
-https://colorsscreen.com/live.php?id=193|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=193|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Chardikla Time TV
-https://colorsscreen.com/live.php?id=517|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=517|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Sudarshan
-https://colorsscreen.com/live.php?id=518|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=518|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",JK 24x7 News
-https://colorsscreen.com/live.php?id=789|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=789|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="AljazeeraEng.il" group-title="JIO TV - News @ SASI",AL Jazeera
-https://colorsscreen.com/live.php?id=494|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=494|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="PTCNews.in" group-title="JIO TV - News @ SASI",PTC News
-https://colorsscreen.com/live.php?id=1170|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1170|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Taaza TV
-https://colorsscreen.com/live.php?id=791|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=791|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Live Today
-https://colorsscreen.com/live.php?id=771|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=771|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Sahara Samay Rastriya
-https://colorsscreen.com/live.php?id=506|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=506|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="MH1News.in" group-title="JIO TV - News @ SASI",Mh One News
-https://colorsscreen.com/live.php?id=511|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=511|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="JanTV.in" group-title="JIO TV - News @ SASI",Janta TV
-https://colorsscreen.com/live.php?id=880|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=880|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News18 Punjab Haryana
-https://colorsscreen.com/live.php?id=655|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=655|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Total TV
-https://colorsscreen.com/live.php?id=855|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=855|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",SAHARA SAMAY UP
-https://colorsscreen.com/live.php?id=508|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=508|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Wion
-https://colorsscreen.com/live.php?id=412|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=412|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",K News India
-https://colorsscreen.com/live.php?id=783|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=783|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",North East Live
-https://colorsscreen.com/live.php?id=637|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=637|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Samachar Plus
-https://colorsscreen.com/live.php?id=804|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=804|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Samay Rajasthan
-https://colorsscreen.com/live.php?id=793|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=793|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Raj News Telugu
-https://colorsscreen.com/live.php?id=664|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=664|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="DW.al" group-title="JIO TV - News @ SASI",dw
-https://colorsscreen.com/live.php?id=496|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=496|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Sansad TV
-https://colorsscreen.com/live.php?id=522|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=522|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Sansad TV HD
-https://colorsscreen.com/live.php?id=520|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=520|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="tv5monde" group-title="JIO TV - News @ SASI",TV5 Monde
-https://colorsscreen.com/live.php?id=885|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=885|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",MKN
-https://colorsscreen.com/live.php?id=846|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=846|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Jaihind tv
-https://colorsscreen.com/live.php?id=465|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=465|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="JeevanTv.in" group-title="JIO TV - News @ SASI",Jeevan TV
-https://colorsscreen.com/live.php?id=842|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=842|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="BansalNews.in" group-title="JIO TV - News @ SASI",Bansal News
-https://colorsscreen.com/live.php?id=1179|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1179|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",India Voice
-https://colorsscreen.com/live.php?id=788|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=788|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",GoodNews Channel
-https://colorsscreen.com/live.php?id=907|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=907|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News India 24x7
-https://colorsscreen.com/live.php?id=850|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=850|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Living India News
-https://colorsscreen.com/live.php?id=831|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=831|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",SMBC TV
-https://colorsscreen.com/live.php?id=851|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=851|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Sadhna News Plus
-https://colorsscreen.com/live.php?id=519|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=519|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Channel News Asia International
-https://colorsscreen.com/live.php?id=764|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=764|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="france24" group-title="JIO TV - News @ SASI",France 24
-https://colorsscreen.com/live.php?id=838|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=838|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Raj News Malayalam
-https://colorsscreen.com/live.php?id=650|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=650|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="euro" group-title="JIO TV - News @ SASI",Euro News
-https://colorsscreen.com/live.php?id=837|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=837|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Swadesh News
-https://colorsscreen.com/live.php?id=1185|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1185|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",CVR English
-https://colorsscreen.com/live.php?id=787|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=787|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",DNN
-https://colorsscreen.com/live.php?id=958|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=958|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Raj NewsÂ 24x7
-https://colorsscreen.com/live.php?id=767|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=767|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",India Ahead
-https://colorsscreen.com/live.php?id=1617|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1617|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Badakhabar
-https://colorsscreen.com/live.php?id=1692|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1692|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",IND 24
-https://colorsscreen.com/live.php?id=1698|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1698|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Anaadi TV
-https://colorsscreen.com/live.php?id=1728|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1728|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",ND 24
-https://colorsscreen.com/live.php?id=1733|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1733|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",TV9 Bangla
-https://colorsscreen.com/live.php?id=1735|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1735|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Hornbill TV
-https://colorsscreen.com/live.php?id=1743|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1743|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",NK TV Plus
-https://colorsscreen.com/live.php?id=1757|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1757|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Aryan TV National
-https://colorsscreen.com/live.php?id=1761|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1761|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Express News
-https://colorsscreen.com/live.php?id=1771|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1771|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Bharat News TV
-https://colorsscreen.com/live.php?id=1777|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1777|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Samachar Express TV
-https://colorsscreen.com/live.php?id=1786|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1786|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",VR Live
-https://colorsscreen.com/live.php?id=1790|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1790|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",KP News 24x7
-https://colorsscreen.com/live.php?id=1791|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1791|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Sattaxpress News
-https://colorsscreen.com/live.php?id=1793|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1793|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Ananda Barta
-https://colorsscreen.com/live.php?id=1796|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1796|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",DA News Plus
-https://colorsscreen.com/live.php?id=1797|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1797|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News World India
-https://colorsscreen.com/live.php?id=1802|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1802|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Jan Setu News
-https://colorsscreen.com/live.php?id=1804|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1804|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",DTV Bharat
-https://colorsscreen.com/live.php?id=1816|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1816|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",NEWS 24 MPCG
-https://colorsscreen.com/live.php?id=1817|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1817|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",ABP Ganga
-https://colorsscreen.com/live.php?id=1205|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1205|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Kalaignar Seithigal
-https://colorsscreen.com/live.php?id=1210|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1210|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Twenty Four News
-https://colorsscreen.com/live.php?id=1250|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1250|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",TV9 Bharatvarsh
-https://colorsscreen.com/live.php?id=1251|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1251|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Kolkata Live
-https://colorsscreen.com/live.php?id=1253|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1253|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Ctvn Akd Plus
-https://colorsscreen.com/live.php?id=1260|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1260|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Calcutta News
-https://colorsscreen.com/live.php?id=1261|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1261|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Total Tv Haryana
-https://colorsscreen.com/live.php?id=1263|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1263|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="KolkataTV.in" group-title="JIO TV - News @ SASI",Kolkata TV
-https://colorsscreen.com/live.php?id=1264|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1264|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Studio One
-https://colorsscreen.com/live.php?id=1274|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1274|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",ANB News
-https://colorsscreen.com/live.php?id=1287|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1287|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",ABP Sanjha
-https://colorsscreen.com/live.php?id=1291|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1291|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Lokshahi News
-https://colorsscreen.com/live.php?id=1293|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1293|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",RT TV
-https://colorsscreen.com/live.php?id=1338|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1338|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Nhk.br" group-title="JIO TV - News @ SASI",NHK World Japan
-https://colorsscreen.com/live.php?id=1405|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1405|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Reporter TV
-https://colorsscreen.com/live.php?id=1408|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1408|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Nandighosha
-https://colorsscreen.com/live.php?id=1427|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1427|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News J
-https://colorsscreen.com/live.php?id=1515|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1515|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Network 10
-https://colorsscreen.com/live.php?id=1528|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1528|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News First
-https://colorsscreen.com/live.php?id=1555|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1555|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",India News Gujarat
-https://colorsscreen.com/live.php?id=1747|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1747|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News11 Bharat
-https://colorsscreen.com/live.php?id=1853|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1853|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",STV Haryana News
-https://colorsscreen.com/live.php?id=1854|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1854|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",NL TV
-https://colorsscreen.com/live.php?id=1855|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1855|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Pratham Khabar 24x7
-https://colorsscreen.com/live.php?id=1856|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1856|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Kenson News
-https://colorsscreen.com/live.php?id=1869|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1869|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Sansad TV Rajya Sabha
-https://colorsscreen.com/live.php?id=1886|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1886|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Tribe TV
-https://colorsscreen.com/live.php?id=1891|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1891|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Today 24 News
-https://colorsscreen.com/live.php?id=1895|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1895|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News Flash
-https://colorsscreen.com/live.php?id=1896|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1896|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Pulse 24
-https://colorsscreen.com/live.php?id=1897|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1897|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",GBN24
-https://colorsscreen.com/live.php?id=1898|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1898|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",VK News
-https://colorsscreen.com/live.php?id=1899|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1899|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Express News Bharat
-https://colorsscreen.com/live.php?id=1900|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1900|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Aaj Ki Baat Gujarati
-https://colorsscreen.com/live.php?id=1903|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1903|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News Tamil 24x7
-https://colorsscreen.com/live.php?id=1954|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1954|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Global India
-https://colorsscreen.com/live.php?id=1959|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1959|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Bhaarat Today
-https://colorsscreen.com/live.php?id=1960|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1960|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Amaar Bangla
-https://colorsscreen.com/live.php?id=1962|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1962|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",KVP Bhaarat
-https://colorsscreen.com/live.php?id=1963|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1963|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ABCNews.al" group-title="JIO TV - News @ SASI",ABC News
-https://colorsscreen.com/live.php?id=1964|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1964|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",VNM TV
-https://colorsscreen.com/live.php?id=1965|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1965|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Live TV Kerala
-https://colorsscreen.com/live.php?id=1966|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1966|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Top News Marathi
-https://colorsscreen.com/live.php?id=1972|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1972|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Gujarat 1st 24x7
-https://colorsscreen.com/live.php?id=1974|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1974|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Raftaar Media
-https://colorsscreen.com/live.php?id=1999|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1999|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Shekinah TV
-https://colorsscreen.com/live.php?id=2004|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2004|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Virat 24
-https://colorsscreen.com/live.php?id=2005|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2005|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",BS9 News
-https://colorsscreen.com/live.php?id=2007|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2007|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News 21
-https://colorsscreen.com/live.php?id=2008|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2008|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Ekamra S News
-https://colorsscreen.com/live.php?id=2013|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2013|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Rajpath TV
-https://colorsscreen.com/live.php?id=2014|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2014|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Munsif TV
-https://colorsscreen.com/live.php?id=2017|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2017|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Samachar Nation
-https://colorsscreen.com/live.php?id=2018|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2018|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Global Punjab
-https://colorsscreen.com/live.php?id=2019|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2019|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",KKD News
-https://colorsscreen.com/live.php?id=2020|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2020|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",HNN 24x7
-https://colorsscreen.com/live.php?id=2021|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2021|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",NB News
-https://colorsscreen.com/live.php?id=2022|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2022|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Raatdin News Network
-https://colorsscreen.com/live.php?id=2027|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2027|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Aaryaa News
-https://colorsscreen.com/live.php?id=2030|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2030|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Prime Media Goa
-https://colorsscreen.com/live.php?id=2074|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2074|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Bharat 24
-https://colorsscreen.com/live.php?id=2079|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2079|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News Bartaman 24x7
-https://colorsscreen.com/live.php?id=2080|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2080|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",TV27 News
-https://colorsscreen.com/live.php?id=2081|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2081|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",22Scope News
-https://colorsscreen.com/live.php?id=2082|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2082|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",India 24x7
-https://colorsscreen.com/live.php?id=2176|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2176|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Swatantra News
-https://colorsscreen.com/live.php?id=2187|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2187|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Globe TV
-https://colorsscreen.com/live.php?id=2188|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2188|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",India News Punjab
-https://colorsscreen.com/live.php?id=2224|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2224|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="RigaTV24.lv" group-title="JIO TV - News @ SASI",TV24
-https://colorsscreen.com/live.php?id=2225|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2225|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Samay Kolkata
-https://colorsscreen.com/live.php?id=2228|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2228|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",News 80
-https://colorsscreen.com/live.php?id=2233|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2233|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Media9
-https://colorsscreen.com/live.php?id=2254|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2254|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",RRN News
-https://colorsscreen.com/live.php?id=2255|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2255|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",TTN24
-https://colorsscreen.com/live.php?id=2323|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2323|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Firstpost
-https://colorsscreen.com/live.php?id=2326|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2326|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Bharat Express
-https://colorsscreen.com/live.php?id=2353|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2353|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",One Paschima
-https://colorsscreen.com/live.php?id=2355|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2355|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - News @ SASI",Vande Bharat News
-https://colorsscreen.com/live.php?id=2423|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2423|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",MTV HD Plus
-https://colorsscreen.com/live.php?id=1145|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1145|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",MTV Beats HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-id="Mastiii.in" group-title="JIO TV - Music@ SASI",Mastiii
-https://colorsscreen.com/live.php?id=584|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=584|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SunMusic.in" group-title="JIO TV - Music@ SASI",Sun Music HD
-https://colorsscreen.com/live.php?id=895|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=895|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Zing.uk" group-title="JIO TV - Music@ SASI",Zing
-https://colorsscreen.com/live.php?id=585|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=585|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="9XM.in" group-title="JIO TV - Music@ SASI",9XM
-https://colorsscreen.com/live.php?id=587|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=587|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="E24.in" group-title="JIO TV - Music@ SASI",E 24
-https://colorsscreen.com/live.php?id=591|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=591|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="B4UMusic.uk" group-title="JIO TV - Music@ SASI",B4U Music
-https://colorsscreen.com/live.php?id=183|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=183|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="zoom" group-title="JIO TV - Music@ SASI",ZOOM
-https://colorsscreen.com/live.php?id=592|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=592|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Gemini Music HD
-https://colorsscreen.com/live.php?id=898|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=898|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="mtv-rus" group-title="JIO TV - Music@ SASI",MTV
-https://colorsscreen.com/live.php?id=248|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=248|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="UdayaMusic.in" group-title="JIO TV - Music@ SASI",Udaya Music
-https://colorsscreen.com/live.php?id=744|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=744|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="9XJalwa.in" group-title="JIO TV - Music@ SASI",9X Jalwa
-https://colorsscreen.com/live.php?id=440|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=440|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Public Music
-https://colorsscreen.com/live.php?id=773|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=773|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="JayaMax.in" group-title="JIO TV - Music@ SASI",Jaya Max
-https://colorsscreen.com/live.php?id=420|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=420|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SangeetBhojpuri.in" group-title="JIO TV - Music@ SASI",Sangeet Bhojpuri
-https://colorsscreen.com/live.php?id=741|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=741|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="SangeetBangla.in" group-title="JIO TV - Music@ SASI",Sangeet Bangla
-https://colorsscreen.com/live.php?id=740|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=740|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",MK Music
-https://colorsscreen.com/live.php?id=845|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=845|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="MusicIndia.uk" group-title="JIO TV - Music@ SASI",Music India
-https://colorsscreen.com/live.php?id=250|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=250|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="RajMusicKarnataka.in" group-title="JIO TV - Music@ SASI",Raj Music Kannada
-https://colorsscreen.com/live.php?id=743|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=743|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Ramdhenu
-https://colorsscreen.com/live.php?id=639|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=639|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="RajMusix.in" group-title="JIO TV - Music@ SASI",Raj Musix
-https://colorsscreen.com/live.php?id=748|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=748|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="PTCChakDe.in" group-title="JIO TV - Music@ SASI",PTC Chak De
-https://colorsscreen.com/live.php?id=1172|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1172|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="9XTashan.in" group-title="JIO TV - Music@ SASI",9X Tashan
-https://colorsscreen.com/live.php?id=732|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=732|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Sahana Music
-https://colorsscreen.com/live.php?id=749|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=749|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",mh1 (Music)
-https://colorsscreen.com/live.php?id=742|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=742|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Sangeet Marathi
-https://colorsscreen.com/live.php?id=735|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=735|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="9XJhakaas.in" group-title="JIO TV - Music@ SASI",9x Jhakaas
-https://colorsscreen.com/live.php?id=441|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=441|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Surya Music
-https://colorsscreen.com/live.php?id=747|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=747|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Raj Music Telugu
-https://colorsscreen.com/live.php?id=737|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=737|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Kappa TV
-https://colorsscreen.com/live.php?id=786|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=786|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Raj Music Malayalam
-https://colorsscreen.com/live.php?id=739|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=739|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="vh1-europe" group-title="JIO TV - Music@ SASI",VH1
-https://colorsscreen.com/live.php?id=1378|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1378|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="MTVBeats.uk" group-title="JIO TV - Music@ SASI",MTV Beats SD
-https://colorsscreen.com/live.php?id=1400|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1400|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="mezzo-hd" group-title="JIO TV - Music@ SASI",Mezzo Live HD
-https://colorsscreen.com/live.php?id=1737|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1737|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Sakkat
-https://colorsscreen.com/live.php?id=1245|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1245|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Bol Hadippa
-https://colorsscreen.com/live.php?id=1248|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1248|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Kadak Hits
-https://colorsscreen.com/live.php?id=1249|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1249|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",iLove
-https://colorsscreen.com/live.php?id=1267|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1267|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Insync
-https://colorsscreen.com/live.php?id=1286|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1286|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="VH1UK.uk" group-title="JIO TV - Music@ SASI",VH1 HD
-https://colorsscreen.com/live.php?id=1320|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1320|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",SongDew TV
-https://colorsscreen.com/live.php?id=1411|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1411|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Balle Balle TV
-https://colorsscreen.com/live.php?id=1453|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1453|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",7X Music
-https://colorsscreen.com/live.php?id=1871|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1871|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Ekamra Musiq
-https://colorsscreen.com/live.php?id=2015|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2015|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Dil Se
-https://colorsscreen.com/live.php?id=2036|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2036|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Pop Pataka
-https://colorsscreen.com/live.php?id=2037|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2037|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="DhamaalTV.in" group-title="JIO TV - Music@ SASI",Dhamaal
-https://colorsscreen.com/live.php?id=2038|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2038|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Adipolli
-https://colorsscreen.com/live.php?id=2039|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2039|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Nazraana
-https://colorsscreen.com/live.php?id=2042|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2042|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Artist Aloud
-https://colorsscreen.com/live.php?id=2043|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2043|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",RS Bharat
-https://colorsscreen.com/live.php?id=2063|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2063|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Merchant Records
-https://colorsscreen.com/live.php?id=2064|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2064|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Bhojpuri Junction
-https://colorsscreen.com/live.php?id=2229|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2229|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Jio Specials HD
-https://colorsscreen.com/live.php?id=2230|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2230|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",No 1 Yaari Jam
-https://colorsscreen.com/live.php?id=2232|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2232|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Desi Music Station
-https://colorsscreen.com/live.php?id=2252|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2252|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Music@ SASI",Punjabi Melodies
-https://colorsscreen.com/live.php?id=2325|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2325|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Nick Hindi
-https://colorsscreen.com/live.php?id=545|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=545|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="POGO.in" group-title="JIO TV - Kids @ SASI",Pogo Hindi
-https://colorsscreen.com/live.php?id=559|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=559|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="CartoonNetworkHindi.qa" group-title="JIO TV - Kids @ SASI",Cartoon Network Hindi
-https://colorsscreen.com/live.php?id=816|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=816|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Sonic Hindi
-https://colorsscreen.com/live.php?id=815|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=815|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Sony Yay Hindi
-https://colorsscreen.com/live.php?id=872|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=872|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="nickelodeon-rus" group-title="JIO TV - Kids @ SASI",Nickelodeon
-https://colorsscreen.com/live.php?id=547|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=547|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Nick Tamil
-https://colorsscreen.com/live.php?id=546|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=546|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Pogo Tamil
-https://colorsscreen.com/live.php?id=542|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=542|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",CN HD+ English
-https://colorsscreen.com/live.php?id=1079|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1079|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Cartoon Network Tamil
-https://colorsscreen.com/live.php?id=817|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=817|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Nick Telugu
-https://colorsscreen.com/live.php?id=543|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=543|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Discovery Kids 2
-https://colorsscreen.com/live.php?id=554|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=554|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="nick-jr" group-title="JIO TV - Kids @ SASI",Nick Junior
-https://colorsscreen.com/live.php?id=544|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=544|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",The Q Kahaniyan
-https://colorsscreen.com/live.php?id=1920|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1920|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ChuttiTV.in" group-title="JIO TV - Kids @ SASI",Chutti TV
-https://colorsscreen.com/live.php?id=557|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=557|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ChintuTv.in" group-title="JIO TV - Kids @ SASI",Chintu TV
-https://colorsscreen.com/live.php?id=555|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=555|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",sonic Tamil
-https://colorsscreen.com/live.php?id=290|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=290|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="KushiTv.in" group-title="JIO TV - Kids @ SASI",Kushi TV
-https://colorsscreen.com/live.php?id=558|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=558|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Cartoon Network Telugu
-https://colorsscreen.com/live.php?id=166|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=166|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Discovery Kids Tamil
-https://colorsscreen.com/live.php?id=550|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=550|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Sony Yay Telugu
-https://colorsscreen.com/live.php?id=874|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=874|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Sony Yay Tamil
-https://colorsscreen.com/live.php?id=873|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=873|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="NickJunior.uk" group-title="JIO TV - Kids @ SASI",Nickelodeon Jr.
-https://colorsscreen.com/live.php?id=548|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=548|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",CN HD+ Tamil
-https://colorsscreen.com/live.php?id=1081|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1081|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="KochuTv.in" group-title="JIO TV - Kids @ SASI",Kochu TV
-https://colorsscreen.com/live.php?id=556|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=556|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",CN HD+ Telugu
-https://colorsscreen.com/live.php?id=1080|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1080|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Nick Malayalam
-https://colorsscreen.com/live.php?id=1340|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1340|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Nick Bangla
-https://colorsscreen.com/live.php?id=1341|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1341|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Nick Marathi
-https://colorsscreen.com/live.php?id=1342|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1342|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Sonic Malayalam
-https://colorsscreen.com/live.php?id=1344|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1344|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Sonic Bangla
-https://colorsscreen.com/live.php?id=1345|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1345|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Sonic Marathi
-https://colorsscreen.com/live.php?id=1346|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1346|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",ZooMoo HD
-https://colorsscreen.com/live.php?id=1601|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1601|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Rongeen TV
-https://colorsscreen.com/live.php?id=1667|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1667|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="nickelod" group-title="JIO TV - Kids @ SASI",Nick HD+
-https://colorsscreen.com/live.php?id=1226|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1226|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Sonic Telugu
-https://colorsscreen.com/live.php?id=1242|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1242|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Sonic Kannada
-https://colorsscreen.com/live.php?id=1243|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1243|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Nick Kannada
-https://colorsscreen.com/live.php?id=1244|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1244|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Jio KIDS
-https://colorsscreen.com/live.php?id=1430|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1430|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Hoopla Kidz TV
-https://colorsscreen.com/live.php?id=1780|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1780|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Dreamworks.es" group-title="JIO TV - Kids @ SASI",DreamWorks
-https://colorsscreen.com/live.php?id=1872|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1872|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Kids @ SASI",Pogo Telugu
-https://colorsscreen.com/live.php?id=1883|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1883|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="CBeebies.pl" group-title="JIO TV - Kids @ SASI",BBC Cbeebies
-https://colorsscreen.com/live.php?id=1976|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1976|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="DiscoveryHD.in" group-title="JIO TV - Infotainment @ SASI",Discovery HD World
-https://colorsscreen.com/live.php?id=463|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=463|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Sony BBC Earth HD
-https://colorsscreen.com/live.php?id=821|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=821|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="HistoryTv18.in" group-title="JIO TV - Infotainment @ SASI",History TV18 HD
-https://colorsscreen.com/live.php?id=146|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=146|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Animal Planet HD World
-https://colorsscreen.com/live.php?id=286|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=286|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Animal Planet Hindi
-https://colorsscreen.com/live.php?id=566|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=566|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Discovery Channel Hindi
-https://colorsscreen.com/live.php?id=575|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=575|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",History TV18 HD Hindi
-https://colorsscreen.com/live.php?id=578|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=578|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="discov_sci" group-title="JIO TV - Infotainment @ SASI",Discovery Science
-https://colorsscreen.com/live.php?id=568|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=568|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Jio Events HD
-https://colorsscreen.com/live.php?id=871|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=871|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Discovery Channel Telugu
-https://colorsscreen.com/live.php?id=576|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=576|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",D Tamil
-https://colorsscreen.com/live.php?id=569|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=569|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",History TV18 HD Tamil
-https://colorsscreen.com/live.php?id=579|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=579|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",History TV18 HD Telugu
-https://colorsscreen.com/live.php?id=577|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=577|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Animal Planet English
-https://colorsscreen.com/live.php?id=567|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=567|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Discovery Channel Bengali
-https://colorsscreen.com/live.php?id=573|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=573|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Sony BBC Earth HD Telugu
-https://colorsscreen.com/live.php?id=854|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=854|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="discov_rus" group-title="JIO TV - Infotainment @ SASI",Discovery
-https://colorsscreen.com/live.php?id=242|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=242|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Sony BBC Earth HD Tamil
-https://colorsscreen.com/live.php?id=853|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=853|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Sony BBC Earth SD
-https://colorsscreen.com/live.php?id=823|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=823|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",DD Kisan
-https://colorsscreen.com/live.php?id=583|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=583|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",ETV Life
-https://colorsscreen.com/live.php?id=570|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=570|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Vanitha
-https://colorsscreen.com/live.php?id=775|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=775|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",CVR Health
-https://colorsscreen.com/live.php?id=774|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=774|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="JIO TV - Infotainment @ SASI",Discovery Turbo
-https://colorsscreen.com/live.php?id=541|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=541|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Sony BBC Earth HD English
-https://colorsscreen.com/live.php?id=852|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=852|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="DDBharati.in" group-title="JIO TV - Infotainment @ SASI",DD bharati
-https://colorsscreen.com/live.php?id=580|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=580|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Care World
-https://colorsscreen.com/live.php?id=582|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=582|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="insight-tv-hd" group-title="JIO TV - Infotainment @ SASI",Insight HD
-https://colorsscreen.com/live.php?id=888|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=888|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",InWild HD
-https://colorsscreen.com/live.php?id=1599|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1599|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Smithsonian HD
-https://colorsscreen.com/live.php?id=1602|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1602|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Naaptol
-https://colorsscreen.com/live.php?id=1768|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1768|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",India At Dubai Expo
-https://colorsscreen.com/live.php?id=1849|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1849|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Animal Planet HD Tamil
-https://colorsscreen.com/live.php?id=1219|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1219|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Tehzeeb TV
-https://colorsscreen.com/live.php?id=1252|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1252|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Janapriyam
-https://colorsscreen.com/live.php?id=1455|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1455|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Daijiworld TV 24x7
-https://colorsscreen.com/live.php?id=1464|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1464|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="HistoryTv18.in" group-title="JIO TV - Infotainment @ SASI",History TV18 SD
-https://colorsscreen.com/live.php?id=1471|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1471|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Ekamra Bharat Odia
-https://colorsscreen.com/live.php?id=2011|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2011|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",U Bangla
-https://colorsscreen.com/live.php?id=2184|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2184|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",POPxo
-https://colorsscreen.com/live.php?id=2257|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2257|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Infotainment @ SASI",Tom TV
-https://colorsscreen.com/live.php?id=2349|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2349|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="tlc-russia-hd" group-title="JIO TV - Lifestyle @ SASI",TLC HD
-https://colorsscreen.com/live.php?id=479|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=479|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="FoodFood.in" group-title="JIO TV - Lifestyle @ SASI",Food Food
-https://colorsscreen.com/live.php?id=561|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=561|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ntv-sport" group-title="JIO TV - Lifestyle @ SASI",GOOD TiMES
-https://colorsscreen.com/live.php?id=560|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=560|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Travelxp.pl" group-title="JIO TV - Lifestyle @ SASI",Travelxp HD
-https://colorsscreen.com/live.php?id=164|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=164|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Lifestyle @ SASI",Travelxp Tamil
-https://colorsscreen.com/live.php?id=814|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=814|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Lifestyle @ SASI",Travelxp HD Hindi
-https://colorsscreen.com/live.php?id=562|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=562|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Lifestyle @ SASI",TLC English
-https://colorsscreen.com/live.php?id=574|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=574|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Lifestyle @ SASI",ETV Abhiruchi
-https://colorsscreen.com/live.php?id=565|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=565|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Lifestyle @ SASI",TLC Hindi
-https://colorsscreen.com/live.php?id=571|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=571|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Lifestyle @ SASI",Kaumudy TV
-https://colorsscreen.com/live.php?id=563|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=563|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="fashion" group-title="JIO TV - Lifestyle @ SASI",FTV HD
-https://colorsscreen.com/live.php?id=1598|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1598|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="luxtv" group-title="JIO TV - Lifestyle @ SASI",LUXE TV HD
-https://colorsscreen.com/live.php?id=1736|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1736|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="melody-zen" group-title="JIO TV - Lifestyle @ SASI",MY ZEN HD
-https://colorsscreen.com/live.php?id=1596|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1596|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="FoodXP.uk" group-title="JIO TV - Lifestyle @ SASI",Foodxp
-https://colorsscreen.com/live.php?id=1955|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1955|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Lifestyle @ SASI",Fashion India
-https://colorsscreen.com/live.php?id=2031|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2031|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="mir" group-title="JIO TV - Business @ SASI",Zee Business
-https://colorsscreen.com/live.php?id=657|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=657|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="CNBCTV18PrimeHD.in" group-title="JIO TV - Business @ SASI",CNBC Tv18 Prime HD
-https://colorsscreen.com/live.php?id=143|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=143|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="NDTVProfit.in" group-title="JIO TV - Business @ SASI",NDTV Profit
-https://colorsscreen.com/live.php?id=259|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=259|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="CNBCAWAAZ.in" group-title="JIO TV - Business @ SASI",CNBC Awaaz
-https://colorsscreen.com/live.php?id=190|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=190|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Business @ SASI",CNBC Tv 18
-https://colorsscreen.com/live.php?id=489|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=489|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Business @ SASI",ET Now
-https://colorsscreen.com/live.php?id=212|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=212|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Business @ SASI",ET Now Swadesh
-https://colorsscreen.com/live.php?id=1907|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1907|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Business @ SASI",CNBC Bazaar (MNO)
-https://colorsscreen.com/live.php?id=490|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=490|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="Aastha.uk" group-title="JIO TV - Devotional @ SASI",Aastha
-https://colorsscreen.com/live.php?id=175|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=175|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Aastha Bhajan
-https://colorsscreen.com/live.php?id=594|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=594|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="Sanskar.uk" group-title="JIO TV - Devotional @ SASI",Sanskar
-https://colorsscreen.com/live.php?id=288|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=288|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Sadhguru Television HD
-https://colorsscreen.com/live.php?id=1201|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1201|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="BhaktiTV.in" group-title="JIO TV - Devotional @ SASI",Bhakti TV
-https://colorsscreen.com/live.php?id=776|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=776|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Sri Sankara
-https://colorsscreen.com/live.php?id=829|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=829|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Peace of Mind
-https://colorsscreen.com/live.php?id=794|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=794|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",mh1 Shraddha
-https://colorsscreen.com/live.php?id=609|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=609|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Sri Venkateshwar Bhakti
-https://colorsscreen.com/live.php?id=598|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=598|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="DivyaTv.in" group-title="JIO TV - Devotional @ SASI",Divya TV
-https://colorsscreen.com/live.php?id=801|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=801|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Paras tv
-https://colorsscreen.com/live.php?id=602|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=602|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Sadhna
-https://colorsscreen.com/live.php?id=593|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=593|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Satsang TV
-https://colorsscreen.com/live.php?id=597|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=597|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",CVR OM Spiritual
-https://colorsscreen.com/live.php?id=772|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=772|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Aradhana TV
-https://colorsscreen.com/live.php?id=777|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=777|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Jinvani TV
-https://colorsscreen.com/live.php?id=596|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=596|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Shubh TV
-https://colorsscreen.com/live.php?id=828|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=828|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Subhavartha TV
-https://colorsscreen.com/live.php?id=607|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=607|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Divya Vani
-https://colorsscreen.com/live.php?id=934|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=934|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ArihantTv.in" group-title="JIO TV - Devotional @ SASI",Arihant TV
-https://colorsscreen.com/live.php?id=466|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=466|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Disha tv
-https://colorsscreen.com/live.php?id=599|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=599|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Vedic TV
-https://colorsscreen.com/live.php?id=856|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=856|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Darshan 24
-https://colorsscreen.com/live.php?id=611|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=611|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="IshwarTv.in" group-title="JIO TV - Devotional @ SASI",Ishwar TV
-https://colorsscreen.com/live.php?id=601|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=601|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Channel Win
-https://colorsscreen.com/live.php?id=605|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=605|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Nambikkai
-https://colorsscreen.com/live.php?id=603|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=603|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Shubhsandesh TV
-https://colorsscreen.com/live.php?id=608|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=608|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Shalom
-https://colorsscreen.com/live.php?id=606|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=606|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Parmarth TV
-https://colorsscreen.com/live.php?id=1449|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1449|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Manav Dharam
-https://colorsscreen.com/live.php?id=1607|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1607|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Madha TV
-https://colorsscreen.com/live.php?id=1655|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1655|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",LWA
-https://colorsscreen.com/live.php?id=1769|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1769|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",VISVAS
-https://colorsscreen.com/live.php?id=1787|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1787|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Yeshuaa TV
-https://colorsscreen.com/live.php?id=1788|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1788|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Dada Bhagwan Foundation Gujarati
-https://colorsscreen.com/live.php?id=1789|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1789|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Mangalmay Live
-https://colorsscreen.com/live.php?id=1794|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1794|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Shri Amarnathji Shrine Board
-https://colorsscreen.com/live.php?id=1795|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1795|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Sadhna Bhakti
-https://colorsscreen.com/live.php?id=1838|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1838|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Aastha Telugu
-https://colorsscreen.com/live.php?id=1254|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1254|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Aastha Tamil
-https://colorsscreen.com/live.php?id=1255|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1255|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Aastha Kannada
-https://colorsscreen.com/live.php?id=1256|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1256|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Nireekshana TV
-https://colorsscreen.com/live.php?id=1277|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1277|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Prarthana Bhawan
-https://colorsscreen.com/live.php?id=1278|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1278|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",HHDL
-https://colorsscreen.com/live.php?id=1315|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1315|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Santvani
-https://colorsscreen.com/live.php?id=1426|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1426|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Velukkudi Discourses
-https://colorsscreen.com/live.php?id=1438|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1438|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Shiksha TV
-https://colorsscreen.com/live.php?id=1454|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1454|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Shree Ganesh - Moti Doongri Jaipur
-https://colorsscreen.com/live.php?id=1463|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1463|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",RadheKrishna TV
-https://colorsscreen.com/live.php?id=1537|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1537|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Subharti
-https://colorsscreen.com/live.php?id=1543|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1543|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Z10 TV
-https://colorsscreen.com/live.php?id=1847|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1847|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",SVBC3
-https://colorsscreen.com/live.php?id=1858|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1858|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",SVBC4
-https://colorsscreen.com/live.php?id=1859|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1859|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Kripa TV
-https://colorsscreen.com/live.php?id=1885|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1885|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Jivan TV
-https://colorsscreen.com/live.php?id=1888|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1888|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Adhyatam TV
-https://colorsscreen.com/live.php?id=1901|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1901|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Namasthe TV
-https://colorsscreen.com/live.php?id=1919|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1919|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Sanskriti 24x7
-https://colorsscreen.com/live.php?id=1926|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1926|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Shri Trimbakeshwar Devasthan Trust
-https://colorsscreen.com/live.php?id=1933|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1933|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Sidharth Bhakti
-https://colorsscreen.com/live.php?id=1958|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1958|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",PMC Hindi
-https://colorsscreen.com/live.php?id=1967|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1967|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",PMC Kannada
-https://colorsscreen.com/live.php?id=1968|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1968|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",PMC Tamizh
-https://colorsscreen.com/live.php?id=1969|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1969|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",PMC Telugu
-https://colorsscreen.com/live.php?id=1975|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1975|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Aadinath TV
-https://colorsscreen.com/live.php?id=2002|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2002|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Sattva TV
-https://colorsscreen.com/live.php?id=2006|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2006|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Paramatma
-https://colorsscreen.com/live.php?id=2012|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2012|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Sadvidya TV
-https://colorsscreen.com/live.php?id=2028|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2028|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Aaryaa Bhakti
-https://colorsscreen.com/live.php?id=2029|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2029|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Amritwani
-https://colorsscreen.com/live.php?id=2035|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2035|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Bhakti Sagar
-https://colorsscreen.com/live.php?id=2041|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2041|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Auroville TV
-https://colorsscreen.com/live.php?id=2045|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2045|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Arya Sandesh TV
-https://colorsscreen.com/live.php?id=2177|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2177|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Gurukul
-https://colorsscreen.com/live.php?id=2192|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2192|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Guruvayur Devaswom
-https://colorsscreen.com/live.php?id=2205|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2205|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Divyalok TV
-https://colorsscreen.com/live.php?id=2322|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2322|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",SRS Bhakti TV
-https://colorsscreen.com/live.php?id=2351|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2351|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Devotional @ SASI",Sadhguru Television SD
-https://colorsscreen.com/live.php?id=2388|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2388|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",India Science
-https://colorsscreen.com/live.php?id=1433|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1433|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",PM e Vidya 12
-https://colorsscreen.com/live.php?id=1532|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1532|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Digishala
-https://colorsscreen.com/live.php?id=1227|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1227|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Top Tutor
-https://colorsscreen.com/live.php?id=1337|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1337|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Gyan Brikshya
-https://colorsscreen.com/live.php?id=1428|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1428|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",TV Teacher
-https://colorsscreen.com/live.php?id=1447|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1447|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Utkarsh Primary
-https://colorsscreen.com/live.php?id=1434|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1434|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Utkarsh HSBTE
-https://colorsscreen.com/live.php?id=1435|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1435|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Utkarsh Secondary
-https://colorsscreen.com/live.php?id=1436|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1436|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Utkarsh Higher
-https://colorsscreen.com/live.php?id=1437|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1437|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Birla Brainiacs
-https://colorsscreen.com/live.php?id=1521|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1521|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Gyanvani 1
-https://colorsscreen.com/live.php?id=1531|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1531|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Tute
-https://colorsscreen.com/live.php?id=1542|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1542|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Punjab School TV
-https://colorsscreen.com/live.php?id=1545|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1545|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Himshiksha Elementary
-https://colorsscreen.com/live.php?id=1562|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1562|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Himshiksha Higher
-https://colorsscreen.com/live.php?id=1563|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1563|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Himshiksha Vocational
-https://colorsscreen.com/live.php?id=1564|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1564|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",AP-BIE-ARTS
-https://colorsscreen.com/live.php?id=1565|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1565|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",AP-BIE-SCIENCE
-https://colorsscreen.com/live.php?id=1566|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1566|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",AP-CIE-SIVE
-https://colorsscreen.com/live.php?id=1567|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1567|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Sanskrit
-https://colorsscreen.com/live.php?id=1590|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1590|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Lifology
-https://colorsscreen.com/live.php?id=1593|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1593|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Medha Secondary
-https://colorsscreen.com/live.php?id=1613|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1613|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Omnicuris
-https://colorsscreen.com/live.php?id=1614|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1614|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Gyanvani 2
-https://colorsscreen.com/live.php?id=1672|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1672|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",PTD Chhattisgarrh
-https://colorsscreen.com/live.php?id=1673|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1673|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Vande Tripura
-https://colorsscreen.com/live.php?id=1770|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1770|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Swaralasika Sangeetalaya
-https://colorsscreen.com/live.php?id=1826|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1826|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",AAS Vidyalaya State Boards
-https://colorsscreen.com/live.php?id=1848|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1848|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Aakash EduTV NEET
-https://colorsscreen.com/live.php?id=1827|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1827|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Aakash EduTV JEE
-https://colorsscreen.com/live.php?id=1851|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1851|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Padhega Bharat
-https://colorsscreen.com/live.php?id=1894|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1894|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",3.0 TV
-https://colorsscreen.com/live.php?id=2003|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2003|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",NSDC TV
-https://colorsscreen.com/live.php?id=2034|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2034|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",CyberPeace TV
-https://colorsscreen.com/live.php?id=2328|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2328|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Educational @ SASI",Narikaa
-https://colorsscreen.com/live.php?id=2352|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=2352|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - DEVOTIONAL @ SASI",Lord Shri Vitthal Rukmini
-https://colorsscreen.com/live.php?id=1217|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1217|Referer=https://tamilultratv.co.in//
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - DEVOTIONAL @ SASI",Sri Krishna Matha Udupi
-https://colorsscreen.com/live.php?id=1271|Referer=https://colorsscreen.com/
+https://tamilultratv.co.in/api/jiotv.m3u8?id=1271|Referer=https://tamilultratv.co.in//
 
 #EXTINF:0 tvg-id="ext" group-title="BIG BOSS @ SASI",Bigg Boss 24/7 LIVE 1
 https://tamiltoonweb.com/BB7/index.fmp4.m3u8|Referer=https://tamiltoonweb.com/
@@ -5079,4 +5083,3 @@ https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tmtp539lujxbj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:0 tvg-id="ext" group-title="SAMSUNG TV+ @ SASI",Vevo Retro Rock
 https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
