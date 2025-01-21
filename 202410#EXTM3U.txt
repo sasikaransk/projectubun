@@ -1895,16 +1895,6 @@ https://neeplay.xyz/snxt/livestream/194405/manifest.mpd|Referer=https://neeplay.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AAAJAA8AAwANAAAACQAA","k":"CgAMAAAJDAAAAA0ADACiAMIADgAA0gAJvAUKCg"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="",dialog HD
-https://watch.livecricketsl.xyz/live/proxy.php/96/A1EARwYDCQoIAQ==/index.mpd
-
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="",dialog 2 HD
-https://watch.livecricketsl.xyz/live/proxy.php/96/A1EARwYDCQoIAQ==/index.mpd?wv=aHR0cHM6Ly9pcHR2LmxpdmVjcmlja2V0c2wueHl6L3d2L29sbC5waHA%2FaWQ9QTFFQVJ3WURDUW9JQVE9PQ%3D%3D
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"diMFZ_PARROn5dEkmrZZgw","k":"TubcmpnYlNxBsIeNbqInkA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png",GEMINI Music HD
 https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
@@ -1912,18 +1902,67 @@ https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QEElT7GzUruw1DsXon/ZCA","k":"q5EJSBMk7/lB2qvejPuM5w"}]}
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png",testDialog
-https://watch.livecricketsl.xyz/proxy/site.php/Ch98/out/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"taLG0TuXSN6c7rwKityK8w","k":"6Ab-wb8cioRCFhGMlLrQIA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="SUNNXT ",Sun Music HD
+https://neeplay.xyz/snxt/livestream/194406/manifest.mpd|Referer=https://neeplay.xyz/snxt/player.php?id=194406
+---Dialog--
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"tfotmnczUVWSfVYEwerlBg","k":"RN8svu46FUNT6LplVWf/sQ"}]}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="DIALOG " tvg-logo="",Shakthi
+https://watch.livecricketsl.xyz/proxy/site.php/Ch9/out/manifest.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"taLG0TuXSN6c7rwKityK8w","k":"6Ab-wb8cioRCFhGMlLrQIA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="SUNNXT ",Sun Music HD
-https://neeplay.xyz/snxt/livestream/194406/manifest.mpd|Referer=https://neeplay.xyz/snxt/player.php?id=194406
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"45Rzdv7JV3S+teT461WPmQ","k":"VGUwAGyKAr0SC+6uZLiUDQ"}]}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="DIALOG " tvg-logo="",Nethra
+https://watch.livecricketsl.xyz/proxy/site.php/Ch3/out/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"/nw2N/JMXKeH4vVqmA14GQ","k":"SwrJ2iRNqWB5yAyTaccPxA"}]}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="DIALOG " tvg-logo="",Sun TV
+https://watch.livecricketsl.xyz/proxy/site.php/Ch94/out/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6njhHoIdVoSNTy5anJKv8g","k":"mJ/4E2I4VUBaNHvFwhL+4g"}]}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="DIALOG " tvg-logo="",Sun Music
+https://watch.livecricketsl.xyz/proxy/site.php/Ch43/out/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wblbF07iVdOgZZa5G8vMRw","k":"j77Cf/jPOBSvzBN0gINUfQ"}]}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="DIALOG " tvg-logo="",Vijay
+https://watch.livecricketsl.xyz/proxy/site.php/Ch96/out/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QEElT7GzUruw1DsXon/ZCA","k":"q5EJSBMk7/lB2qvejPuM5w"}]}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="DIALOG " tvg-logo="",Zee Tamil
+https://watch.livecricketsl.xyz/proxy/site.php/Ch98/out/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wSyOadK2U0SWt9kOMdMlaA","k":"2JzJPKCeggsXB3pcYBNBlQ"}]}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="DIALOG " tvg-logo="",Siripoli
+https://watch.livecricketsl.xyz/proxy/site.php/Ch99/out/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"tPLESRwWVoKkzlBwpofKFw","k":"Mt2llehOEJtou4aTcDJroQ"}]}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="DIALOG " tvg-logo="",KTV
+https://watch.livecricketsl.xyz/proxy/site.php/Ch95/out/manifest.mpd
 
 -----Astro--
 #KODIPROP:inputstreamaddon=inputstream.adaptive
