@@ -1909,6 +1909,13 @@ https://watch.livecricketsl.xyz/live/proxy.php/96/A1EARwYDCQoIAQ==/index.mpd?wv=
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png",GEMINI Music HD
 https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QEElT7GzUruw1DsXon/ZCA","k":"q5EJSBMk7/lB2qvejPuM5w"}]}
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png",testDialog
+https://watch.livecricketsl.xyz/proxy/site.php/Ch98/out/manifest.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
