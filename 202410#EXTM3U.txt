@@ -2003,7 +2003,7 @@ https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN
 https://neeplay.xyz/snxt/livestream/194406/manifest.mpd|Referer=https://neeplay.xyz/snxt/player.php?id=194406
 ---Dialog--
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.umadiyajanani.com/viu/license/?id=9&expires=1743103096
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="DIALOG " tvg-logo="",Shakthi
 https://iptv.umadiyajanani.com/viu/viu.mpd?id=9
