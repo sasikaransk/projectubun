@@ -2002,13 +2002,12 @@ https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="SUNNXT " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="SUNNXT ",Sun Music HD
 https://neeplay.xyz/snxt/livestream/194406/manifest.mpd|Referer=https://neeplay.xyz/snxt/player.php?id=194406
 ---Dialog--
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.umadiyajanani.com/viu/license/?id=9
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="DIALOG " tvg-logo="",Shakthi
-https://iptv.umadiyajanani.com/viu/viu.mpd?id=9&wv=aHR0cHM6Ly9pcHR2LnVtYWRpeWFqYW5hbmkuY29tL3ZpdS9saWNlbnNlLz9pZD05JmV4cGlyZXM9MTc0MzEwMzA5Ng==&headers=eyJVc2VyLUFnZW50IjoiRGFsdmlrLzIuMS4wIChMaW51eDsgVTsgQW5kcm9pZCAwOyAwIEJ1aWxkLzApIn0
+https://iptv.umadiyajanani.com/viu/viu.mpd?id=9&headers=eyJVc2VyLUFnZW50IjoiRGFsdmlrLzIuMS4wIChMaW51eDsgVTsgQW5kcm9pZCAwOyAwIEJ1aWxkLzApIn0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
