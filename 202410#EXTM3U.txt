@@ -2006,7 +2006,7 @@ https://neeplay.xyz/snxt/livestream/194406/manifest.mpd|Referer=https://neeplay.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.umadiyajanani.com/viu/license/?id=9&expires=1743103096
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" group-title="DIALOG " tvg-logo="",Shakthi
-https://iptv.umadiyajanani.com/viu/viu.mpd?id=9&headers=eyJVc2VyLUFnZW50IjoiRGFsdmlrLzIuMS4wIChMaW51eDsgVTsgQW5kcm9pZCAwOyAwIEJ1aWxkLzApIn0
+https://iptv.umadiyajanani.com/viu/viu.mpd?id=9
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
