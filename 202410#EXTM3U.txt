@@ -8,7 +8,11 @@
 #EXTINF:0 tvg-id="ext" group-title="Channels",No name
 </html>
 #EXTINF:0 tvg-id="ext" group-title="Channels",No name
-
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Protected Stream",Widevine DASH
+https://edge3-moblive.yuppcdn.net/drm1/smil:startamildrm.smil/manifest.mpd
 #EXTM3U
 #EXTINF:-1 group-title="Peo TV",Shakthi
 https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8?dvr
