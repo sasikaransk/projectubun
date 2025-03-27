@@ -11,8 +11,98 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
-#EXTINF:-1 tvg-id="drm1" tvg-name="Protected Stream",Widevine DASH
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Star Tamil
 https://edge3-moblive.yuppcdn.net/drm1/smil:startamildrm.smil/manifest.mpd
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Shakthi
+https://edge3-moblive.yuppcdn.net/drm/smil:shakthitvdrm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Vasantham
+https://edge3-moblive.yuppcdn.net/drm1/smil:vasanthamtvdrm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Eye Channel
+https://edge3-moblive.yuppcdn.net/drm1/smil:nethradrm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Star Sports
+https://edge3-moblive.yuppcdn.net/drm1/smil:starsports1drm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Star Sports 2
+https://edge3-moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Ten Cricket
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Peo Sports 2
+https://edge3-moblive.yuppcdn.net/drm1/smil:peosports2drm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Hiru Tv
+https://edge3-moblive.yuppcdn.net/drm/smil:hirutvdrm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Derana Tv
+https://edge3-moblive.yuppcdn.net/drm1/smil:deranatvdrm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Swarnawahini
+https://edge3-moblive.yuppcdn.net/drm1/smil:swarnawahinidrm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",ITN
+https://edge3-moblive.yuppcdn.net/drm1/smil:itndrm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Siyatha Tv
+https://edge3-moblive.yuppcdn.net/drm/smil:siyathatvdrm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Sirasa Tv
+https://edge3-moblive.yuppcdn.net/drm/smil:sirasatvdrm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Rupavahini
+https://edge3-moblive.yuppcdn.net/drm/smil:rupavahinidrm.smil/manifest.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+#EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",TV 1
+https://edge3-moblive.yuppcdn.net/drm1/smil:tv1drm.smil/manifest.mpd
+
 #EXTM3U
 #EXTINF:-1 group-title="Peo TV",Shakthi
 https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8?dvr
