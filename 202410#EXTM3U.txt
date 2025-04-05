@@ -11,6 +11,11 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwAAABgmKfIAJDg0MGQxNTk3LTZlMmUtNDRlZS1hYTgwLWI4ZjhmMWU4MjJjOAAAAICLhicJEaxZbl4v_p6Xg3xRkVPetotajmNNydRqe-ClnBtKSFZ2jncr2kB4PtNOG_GCl_WZjlrs6SHAzbNlM6J0sKDR4x0SG5o52TcVFCQs0RSRdnu0_uz7kH8Q0bhb2PVPHWT4yLJZK9K13QjogN-fQYcpUx5BRR8OkXLH3_H8MvFdzWTjZm-b1FgRS0ouyFltlxD9&id=588560f81720e74c27d87a32244b2ac6a1ab977
+
+
+#EXTINF:-1 tvg-id="drm1" tvg-name="Maviddapuram",Maviddapuram Kumba Abishegam
+https://video-hel3-1.xx.fbcdn.net/hvideo-ftw-frc/_nc_cat-101/_nc_sr_t-4/v/rASe3-sMwkNMeQszmDMRpN6Qcb4xBpIYME_6qiVoiWps0Sw/_nc_ohc-X_87uNDCl14Q7kNvwEySHLj/live-dash/dash-abr-ibr-audio/1090105619818034.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AYFtJ9ZYuCV6z1_0drjlU_qj7nUyq4MoBjChz5CM7DAj8g&oe=67F28CA7
+
 #EXTINF:-1 tvg-id="drm1" tvg-name="Peo TV Go",Star Tamil
 https://edge3-moblive.yuppcdn.net/drm1/smil:startamildrm.smil/manifest.mpd
 #EXTM3U
