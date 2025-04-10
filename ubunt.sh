@@ -18,6 +18,8 @@ wget https://www.dropbox.com/scl/fi/c2vo7dc9blemneue71owr/avidemux_2.8.1.appImag
 wget https://www.dropbox.com/scl/fi/h3szk2c2gscmvu7rfp2ty/Telegram.AppImage?rlkey=hmfixuty7bt9wfdbxbmakmyri&st=h0mjn9aw&dl=1
 sudo apt install mkvtoolnix mkvtoolnix-gui
 sudo apt install qbittorrent
+wget https://github.com/amir1376/ab-download-manager/releases/download/v1.5.4/ABDownloadManager_1.5.4_linux_x64.deb
+sudo apt install ./ABDownloadManager_1.5.4_linux_x64.deb
 #bash <(wget -qO- https://files.biglybt.com/installer/BiglyBT_Installer.sh)
 sudo apt install libqt5webenginecore5 libqt5webenginewidgets5 libqt5script5 libqt5scripttools5
 sudo bash -c 'echo "exec /etc/X11/Xsession /usr/bin/xfce4-session" > /etc/chrome-remote-desktop-session'
