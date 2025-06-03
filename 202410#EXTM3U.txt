@@ -313,104 +313,104 @@ https://mrking.online/Zo/stream.m3u8?id=0-9-zeetamil|Referer=https://mrking.onli
 
 --Jio 2--
 #EXTINF:0 tvg-id="Travelxp.pl" group-title="JIO 2 - Lifestyle @ SASI",Travelxp HD
-https://jio.tamilbulbtv.live/live.php?id=164|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=164|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Lifestyle @ SASI",Travelxp Tamil
-https://jio.tamilbulbtv.live/live.php?id=814|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=814|Referer=https://tamilultratv.com/
 
 #EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="JIO 2 - Infotainment @ SASI",Discovery Turbo
-https://jio.tamilbulbtv.live/live.php?id=541|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=541|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",Sony BBC Earth HD English
-https://jio.tamilbulbtv.live/live.php?id=852|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=852|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="discov_rus" group-title="JIO 2 - Infotainment @ SASI",Discovery
-https://jio.tamilbulbtv.live/live.php?id=242|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=242|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",Sony BBC Earth HD Tamil
-https://jio.tamilbulbtv.live/live.php?id=853|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=853|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",Sony BBC Earth SD
-https://jio.tamilbulbtv.live/live.php?id=823|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=823|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",D Tamil
-https://jio.tamilbulbtv.live/live.php?id=569|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=569|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",History TV18 HD Tamil
-https://jio.tamilbulbtv.live/live.php?id=579|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=579|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="DiscoveryHD.in" group-title="JIO 2 - Infotainment @ SASI",Discovery HD World
-https://jio.tamilbulbtv.live/live.php?id=463|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=463|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",Sony BBC Earth HD
-https://jio.tamilbulbtv.live/live.php?id=821|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=821|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="HistoryTv18.in" group-title="JIO 2 - Infotainment @ SASI",History TV18 HD
-https://jio.tamilbulbtv.live/live.php?id=146|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=146|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Infotainment @ SASI",Animal Planet HD World
-https://jio.tamilbulbtv.live/live.php?id=286|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=286|Referer=https://tamilultratv.com/
 
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",CN HD+ Tamil
-https://jio.tamilbulbtv.live/live.php?id=1081|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=1081|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",Sony Yay Tamil
-https://jio.tamilbulbtv.live/live.php?id=873|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=873|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",Discovery Kids Tamil
-https://jio.tamilbulbtv.live/live.php?id=550|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=550|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",sonic Tamil
-https://jio.tamilbulbtv.live/live.php?id=290|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=290|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ChuttiTV.in" group-title="JIO 2 - Kids @ SASI",Chutti TV
-https://jio.tamilbulbtv.live/live.php?id=557|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=557|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",Nick Tamil
-https://jio.tamilbulbtv.live/live.php?id=546|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=546|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",Pogo Tamil
-https://jio.tamilbulbtv.live/live.php?id=542|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=542|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",CN HD+ English
-https://jio.tamilbulbtv.live/live.php?id=1079|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=1079|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Kids @ SASI",Cartoon Network Tamil
-https://jio.tamilbulbtv.live/live.php?id=817|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=817|Referer=https://tamilultratv.com/
 
 #EXTINF:0 tvg-id="RajMusix.in" group-title="JIO 2 - Music@ SASI",Raj Musix
-https://jio.tamilbulbtv.live/live.php?id=748|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=748|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="JayaMax.in" group-title="JIO 2 - Music@ SASI",Jaya Max
-https://jio.tamilbulbtv.live/live.php?id=420|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=420|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="SunMusic.in" group-title="JIO 2 - Music@ SASI",Sun Music HD
-https://jio.tamilbulbtv.live/live.php?id=895|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=895|Referer=https://tamilultratv.com/
 
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Movies @ SASI",Zee Thirai
-https://jio.tamilbulbtv.live/live.php?id=2256|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=2256|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Movies @ SASI",Sun Life
-https://jio.tamilbulbtv.live/live.php?id=682|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=682|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Movies @ SASI",J Movies
-https://jio.tamilbulbtv.live/live.php?id=417|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=417|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="KtvHD.in" group-title="JIO 2 - Movies @ SASI",KTV HD
-https://jio.tamilbulbtv.live/live.php?id=894|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=894|Referer=https://tamilultratv.com/
 
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Colors Tamil
-https://jio.tamilbulbtv.live/live.php?id=1371|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=1371|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Thanthi 1
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8|Referer=https://ap-south-1.playback.live-video.net
 #EXTINF:0 tvg-id="KalaignarTv.in" group-title="JIO 2 - Entertainment @ SASI",Kalaignar TV
-https://jio.tamilbulbtv.live/live.php?id=1209|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=1209|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",DD5 Podhigai
-https://jio.tamilbulbtv.live/live.php?id=726|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=726|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Vasanth TV
-https://jio.tamilbulbtv.live/live.php?id=727|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=727|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="RajTv.in" group-title="JIO 2 - Entertainment @ SASI",Raj TV
-https://jio.tamilbulbtv.live/live.php?id=707|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=707|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Makkal TV
-https://jio.tamilbulbtv.live/live.php?id=708|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=708|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="AdithyaTV.in" group-title="JIO 2 - Entertainment @ SASI",Adithya TV
-https://jio.tamilbulbtv.live/live.php?id=709|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=709|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="KairaliTv.in" group-title="JIO 2 - Entertainment @ SASI",Kairali TV
-https://jio.tamilbulbtv.live/live.php?id=710|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=710|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Captain tv
-https://jio.tamilbulbtv.live/live.php?id=711|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=711|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="PolimerTv.in" group-title="JIO 2 - Entertainment @ SASI",Polimer TV
-https://jio.tamilbulbtv.live/live.php?id=705|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=705|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Puthu Yugam
-https://jio.tamilbulbtv.live/live.php?id=824|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=824|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Jaya TV HD
-https://jio.tamilbulbtv.live/live.php?id=419|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=419|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Vendhar TV
-https://jio.tamilbulbtv.live/live.php?id=857|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=857|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Jaya TV HD
-https://jio.tamilbulbtv.live/live.php?id=419|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=419|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Colors Tamil HD
-https://jio.tamilbulbtv.live/live.php?id=429|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=429|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Vijay HD
 https://tamilultra.in/master.m3u8?c=STAR_VIJAY&server=1|Referer=https://tamilultra.in/
 #EXTINF:0 tvg-id="SunTvHD.in" group-title="JIO 2 - Entertainment @ SASI",Sun TV HD
-https://jio.tamilbulbtv.live/live.php?id=896|Referer=https://jio.tamilbulbtv.live/
+https://tamilultratv.com/api/jiotv.m3u8?id=896|Referer=https://tamilultratv.com/
 
 --Jio 1---
 #EXTINF:0 tvg-id="ext" group-title="JIO TV - Sports@ SASI",Jio Cricket English HD
