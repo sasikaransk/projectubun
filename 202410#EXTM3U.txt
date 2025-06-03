@@ -410,7 +410,7 @@ https://tamilultratv.com/api/jiotv.m3u8?id=429|Referer=https://tamilultratv.com/
 #EXTINF:0 tvg-id="ext" group-title="JIO 2 - Entertainment @ SASI",Vijay HD
 https://tamilultra.in/master.m3u8?c=STAR_VIJAY&server=1|Referer=https://tamilultra.in/
 #EXTINF:0 tvg-id="SunTvHD.in" group-title="JIO 2 - Entertainment @ SASI",Sun TV HD
-https://tamilultratv.com/api/jiotv.m3u8?id=896|Referer=https://tamilultratv.com/&User-Agent= Gecko/20100101 VLC/3.0.18
+https://tamilultratv.com/api/jiotv.m3u8?id=896&ref=https://tamilultratv.com
 
 
 --Jio 1---
