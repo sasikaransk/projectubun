@@ -1,7 +1,8 @@
 #bash <(wget -qO- https://raw.githubusercontent.com/sasikaransk/projectubun/main/ubunt.sh)
 sudo apt update
-sudo apt install snap
-sudo apt install snapd
+sudo apt-get upgrade
+#sudo apt install snap
+#sudo apt install snapd
 sudo snap install firefox
 sudo apt install vlc -y
 sudo apt install file-roller
